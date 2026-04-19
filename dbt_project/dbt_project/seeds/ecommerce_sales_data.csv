@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,quantity,price,product_category,payment_method,order_date,order_status
+ORD1,CUS360,P215,1,430.04,Health & Beauty,Cryptocurrency,2025-10-18,Delivered
+ORD2,CUS199,P140,5,141.44,Consumer Electronics,BNPL Services,2025-06-20,In Transit
+ORD3,CUS103,P171,1,388.81,Pet Care & Supplies,BNPL Services,2025-10-30,Cancelled
+ORD4,CUS157,P150,3,481.19,Health & Beauty,Credit and Debit Cards,2025-07-22,Delivered
+ORD5,CUS115,P112,2,331.2,Food & Beverage,Digital Wallets,2025-09-12,Cancelled
+ORD6,CUS446,P76,4,447.63,Fashion & Accessories,Cash on Delivery,2025-08-12,In Transit
+ORD7,CUS437,P273,3,206.72,Consumer Electronics,BNPL Services,2025-11-04,In Transit
+ORD8,CUS231,P55,3,95.75,Food & Beverage,Digital Wallets,2025-05-07,In Transit
+ORD9,CUS437,P156,5,95.04,Home & Garden,Bank Transfers,2025-07-06,Delivered
+ORD10,CUS277,P250,3,284.34,Pet Care & Supplies,Credit and Debit Cards,2025-04-19,Cancelled
+ORD11,CUS23,P101,2,446.26,Food & Beverage,Cash on Delivery,2025-08-08,In Transit
+ORD12,CUS380,P149,2,152.07,Media & Books,Credit and Debit Cards,2025-11-24,Delivered
+ORD13,CUS193,P198,3,353.84,Consumer Electronics,BNPL Services,2025-05-21,Delivered
+ORD14,CUS382,P32,5,252.91,Health & Beauty,Digital Wallets,2025-09-08,Delivered
+ORD15,CUS32,P239,5,286.48,Food & Beverage,Digital Wallets,2026-05-19 00:17:24.477113,Shipped
+ORD16,CUS53,P238,5,311.44,Media & Books,BNPL Services,2025-10-08,Cancelled
+ORD17,CUS249,P32,3,106.06,Consumer Electronics,Cryptocurrency,2025-11-03,Shipped
+ORD18,CUS452,P215,4,202.39,Pet Care & Supplies,Digital Wallets,2025-10-22,In Transit
+ORD19,CUS32,P24,2,95.88,Media & Books,Cash on Delivery,2025-08-22,In Transit
+ORD20,CUS444,P184,4,198.76,Pet Care & Supplies,BNPL Services,2026-05-19 00:17:24.477144,Shipped
+ORD21,CUS369,P19,1,269.28,Food & Beverage,Bank Transfers,2025-11-18,In Transit
+ORD22,CUS27,P81,1,61.06,Health & Beauty,Cash on Delivery,2025-07-03,Cancelled
+ORD23,CUS218,P11,4,218.96,Health & Beauty,Bank Transfers,2025-10-26,Shipped
+ORD24,CUS475,P127,1,236.51,Fashion & Accessories,Bank Transfers,2025-09-03,In Transit
+ORD25,CUS88,P87,1,196.02,Health & Beauty,BNPL Services,2025-04-22,In Transit
+ORD26,CUS103,P87,1,262.82,Consumer Electronics,Digital Wallets,2026-01-20,In Transit
+ORD27,CUS407,P226,4,426.25,Health & Beauty,Cryptocurrency,2025-06-24,Shipped
+ORD28,CUS173,P213,5,25.54,Home & Garden,BNPL Services,2025-05-22,Delivered
+ORD29,CUS121,P58,5,459.22,Pet Care & Supplies,Bank Transfers,2025-08-02,Cancelled
+ORD30,CUS400,P193,2,99.13,Consumer Electronics,Bank Transfers,2025-04-23,Cancelled
+ORD31,CUS226,P282,1,451.49,Fashion & Accessories,Credit and Debit Cards,2025-07-02,In Transit
+ORD32,CUS221,P178,4,148.24,Health & Beauty,Cash on Delivery,2025-08-14,Cancelled
+ORD33,CUS407,P223,2,295.6,Pet Care & Supplies,Cash on Delivery,2026-04-09,In Transit
+ORD34,CUS169,P9,1,403.74,Media & Books,Cryptocurrency,2026-04-04,Delivered
+ORD35,CUS307,P182,5,291.41,Pet Care & Supplies,Cryptocurrency,2026-03-03,Delivered
+ORD36,CUS403,P31,4,394.5,Health & Beauty,Credit and Debit Cards,2025-07-11,Delivered
+ORD37,CUS253,P184,3,460.65,Food & Beverage,Cash on Delivery,2025-10-16,Cancelled
+ORD38,CUS392,P175,4,433.37,Media & Books,Digital Wallets,2025-04-24,Delivered
+ORD39,CUS119,P152,1,382.59,Food & Beverage,Bank Transfers,2025-10-19,Cancelled
+ORD40,CUS297,P282,2,206.57,Fashion & Accessories,Cash on Delivery,2026-03-13,Cancelled
+ORD41,CUS50,P264,3,91.06,Food & Beverage,Cash on Delivery,2025-09-02,Cancelled
+ORD42,CUS90,P283,1,262.31,Health & Beauty,BNPL Services,2025-08-07,Cancelled
+ORD43,CUS434,P54,4,306.6,Health & Beauty,Digital Wallets,2025-06-18,Shipped
+ORD44,CUS12,P271,3,289.8,Consumer Electronics,Digital Wallets,2025-12-21,Delivered
+ORD45,CUS134,P184,3,345.19,Home & Garden,Cryptocurrency,2025-08-19,Cancelled
+ORD46,CUS251,P255,5,150.91,Fashion & Accessories,BNPL Services,2025-11-20,In Transit
+ORD47,CUS290,P95,3,87.66,Media & Books,Cash on Delivery,2025-07-08,Shipped
+ORD48,CUS160,P36,2,52.71,Health & Beauty,Cash on Delivery,2025-09-08,Delivered
+ORD49,CUS452,P138,3,323.99,Home & Garden,Digital Wallets,2025-08-21,Delivered
+ORD50,CUS5,P158,2,100.84,Fashion & Accessories,Cash on Delivery,2026-04-12,Shipped
+ORD51,CUS213,P128,2,235.24,Health & Beauty,Credit and Debit Cards,2025-05-17,Delivered
+ORD52,CUS101,P284,3,279.79,Health & Beauty,Cash on Delivery,2025-07-15,Delivered
+ORD53,CUS227,P152,4,288.44,Pet Care & Supplies,Cash on Delivery,2025-10-06,Cancelled
+ORD54,CUS139,P85,4,396.81,Pet Care & Supplies,Digital Wallets,2025-05-12,Shipped
+ORD55,CUS157,P219,3,451.99,Consumer Electronics,Cash on Delivery,2025-12-30,Cancelled
+ORD56,CUS480,P103,2,475.32,Home & Garden,Cash on Delivery,2025-05-11,In Transit
+ORD57,CUS455,P78,5,78.39,Pet Care & Supplies,BNPL Services,2025-09-02,Shipped
+ORD58,CUS27,P170,1,252.37,Home & Garden,Bank Transfers,2025-10-10,Shipped
+ORD59,CUS169,P46,3,23.32,Media & Books,Cryptocurrency,2026-04-18,Shipped
+ORD60,CUS481,P12,3,18.43,Food & Beverage,Bank Transfers,2025-10-07,Shipped
+ORD61,CUS315,P128,3,344.74,Fashion & Accessories,Digital Wallets,2026-03-20,Cancelled
+ORD62,CUS455,P96,3,375.0,Health & Beauty,Cryptocurrency,2025-11-28,Cancelled
+ORD63,CUS241,P60,2,442.79,Health & Beauty,Cryptocurrency,2025-11-25,Shipped
+ORD64,CUS283,P299,5,157.59,Media & Books,Credit and Debit Cards,2025-05-11,Shipped
+ORD65,CUS211,P136,5,104.09,Home & Garden,Cryptocurrency,2025-05-29,Shipped
+ORD66,CUS492,P178,4,213.91,Consumer Electronics,Bank Transfers,2025-05-24,Cancelled
+ORD67,CUS433,P287,2,49.96,Fashion & Accessories,Cash on Delivery,2026-05-19 00:17:24.477010,Delivered
+ORD68,CUS78,P299,5,396.43,Home & Garden,Credit and Debit Cards,2025-07-18,In Transit
+ORD69,CUS18,P144,4,148.37,Home & Garden,Cryptocurrency,2025-07-20,Cancelled
+ORD70,CUS171,P187,3,24.95,Consumer Electronics,Credit and Debit Cards,2025-07-25,Delivered
+ORD71,CUS363,P53,2,252.58,Media & Books,Digital Wallets,2025-05-21,Delivered
+ORD72,CUS150,P111,2,83.12,Home & Garden,Digital Wallets,2025-09-19,Shipped
+ORD73,CUS252,P32,4,348.78,Consumer Electronics,Credit and Debit Cards,2025-11-26,Delivered
+ORD74,CUS244,P283,1,168.35,Media & Books,Cash on Delivery,2025-11-27,In Transit
+ORD75,CUS188,P181,3,188.68,Media & Books,Bank Transfers,2025-10-30,In Transit
+ORD76,CUS237,P67,2,134.16,Pet Care & Supplies,Bank Transfers,2026-03-12,Cancelled
+ORD77,CUS277,P27,2,171.35,Health & Beauty,Digital Wallets,2025-08-02,Shipped
+ORD78,CUS174,P166,5,486.44,Consumer Electronics,Cryptocurrency,2025-06-06,In Transit
+ORD79,CUS496,P146,3,249.13,Consumer Electronics,Digital Wallets,2025-05-26,Shipped
+ORD80,CUS426,P179,3,32.23,Consumer Electronics,Credit and Debit Cards,2025-08-03,Delivered
+ORD81,CUS136,P233,1,275.33,Health & Beauty,Cash on Delivery,2025-04-25,Delivered
+ORD82,CUS495,P217,2,33.47,Food & Beverage,Cash on Delivery,2026-02-18,Cancelled
+ORD83,CUS66,P154,2,155.45,Food & Beverage,Cash on Delivery,2025-04-28,Delivered
+ORD84,CUS176,P2,5,239.04,Media & Books,Cryptocurrency,2026-02-09,Cancelled
+ORD85,CUS333,P107,2,338.64,Health & Beauty,Digital Wallets,2025-10-06,Shipped
+ORD86,CUS360,P175,2,275.65,Health & Beauty,Bank Transfers,2026-04-10,Shipped
+ORD87,CUS312,P278,3,162.66,Health & Beauty,Cash on Delivery,2025-12-09,Delivered
+ORD88,CUS413,P272,4,173.91,Consumer Electronics,Credit and Debit Cards,2025-07-28,Shipped
+ORD89,CUS355,P46,3,400.57,Consumer Electronics,Bank Transfers,2025-08-21,In Transit
+ORD90,CUS8,P220,4,365.47,Food & Beverage,Digital Wallets,2025-05-19,In Transit
+ORD91,CUS15,P260,1,336.23,Fashion & Accessories,Credit and Debit Cards,2025-09-20,In Transit
+ORD92,CUS85,P59,3,369.13,Pet Care & Supplies,Cash on Delivery,2025-12-28,Shipped
+ORD93,CUS268,P15,1,27.57,Pet Care & Supplies,Digital Wallets,2025-07-26,Shipped
+ORD94,CUS455,P123,5,230.27,Food & Beverage,Credit and Debit Cards,2025-11-23,In Transit
+ORD95,CUS484,P119,4,327.94,Fashion & Accessories,Credit and Debit Cards,2025-04-22,Cancelled
+ORD96,CUS74,P174,4,382.88,Health & Beauty,Cryptocurrency,2025-06-07,Delivered
+ORD97,CUS179,P217,3,494.36,Home & Garden,Cryptocurrency,2026-05-19 00:17:24.475637,Shipped
+ORD98,CUS232,P242,2,147.4,Health & Beauty,Digital Wallets,2025-06-06,Delivered
+ORD99,CUS45,P73,4,233.59,Media & Books,BNPL Services,2026-01-16,Cancelled
+ORD100,CUS176,P172,3,465.3,Health & Beauty,Digital Wallets,2026-03-12,Cancelled
+ORD101,,P245,3,392.34,Media & Books,Bank Transfers,2025-10-21,In Transit
+ORD102,CUS96,P182,5,320.49,Health & Beauty,Digital Wallets,2026-01-18,In Transit
+ORD103,CUS98,P280,2,270.97,Pet Care & Supplies,BNPL Services,2025-05-01,In Transit
+ORD104,CUS412,P221,3,358.54,Consumer Electronics,Cash on Delivery,2026-04-14,In Transit
+ORD105,CUS445,P82,1,370.07,Pet Care & Supplies,Digital Wallets,2025-09-06,Delivered
+ORD106,CUS111,P288,2,126.43,Consumer Electronics,Cryptocurrency,2025-12-06,Delivered
+ORD107,CUS439,P125,4,55.37,Consumer Electronics,BNPL Services,2025-05-12,Delivered
+ORD108,CUS388,P150,1,472.6,Consumer Electronics,Credit and Debit Cards,2026-03-14,Delivered
+ORD109,CUS152,P158,4,208.22,Health & Beauty,Cryptocurrency,2026-03-18,Cancelled
+ORD110,CUS266,P170,-1,150.15,Home & Garden,Cash on Delivery,2026-01-08,Cancelled
+ORD111,CUS162,P84,3,235.94,Food & Beverage,BNPL Services,2025-10-26,Delivered
+ORD112,CUS296,P75,3,107.61,Food & Beverage,Cryptocurrency,2025-11-02,Cancelled
+ORD113,CUS360,P217,5,24.79,Pet Care & Supplies,Bank Transfers,2026-04-01,In Transit
+ORD114,CUS103,P24,2,153.82,Food & Beverage,Cash on Delivery,2026-03-13,In Transit
+ORD115,CUS59,P183,3,354.11,Health & Beauty,Cash on Delivery,2025-05-18,Cancelled
+ORD116,CUS188,P64,2,375.94,Health & Beauty,Digital Wallets,2025-06-20,Delivered
+ORD117,CUS342,P109,4,436.61,Home & Garden,BNPL Services,2026-02-22,Shipped
+ORD118,CUS241,P36,1,86.06,Pet Care & Supplies,Cash on Delivery,2025-06-01,Cancelled
+ORD119,CUS93,P197,5,329.13,Pet Care & Supplies,Credit and Debit Cards,2026-02-16,Cancelled
+ORD120,CUS198,P271,4,386.43,Home & Garden,BNPL Services,2025-05-18,Cancelled
+ORD121,CUS139,P95,1,51.23,Fashion & Accessories,Bank Transfers,2026-04-17,In Transit
+ORD122,CUS66,P101,1,209.39,Consumer Electronics,Bank Transfers,2025-11-18,In Transit
+ORD123,CUS212,P235,1,469.07,Consumer Electronics,Digital Wallets,2025-11-16,Shipped
+ORD124,CUS237,P18,5,328.47,Home & Garden,BNPL Services,2026-02-21,Shipped
+ORD125,CUS109,P150,2,188.82,Health & Beauty,Cryptocurrency,2025-09-03,Delivered
+ORD126,CUS472,P241,2,69.77,Food & Beverage,Digital Wallets,2025-10-17,Delivered
+ORD127,CUS11,P187,3,70.7,Media & Books,Digital Wallets,2026-03-04,Delivered
+ORD128,CUS250,P260,3,156.04,Home & Garden,Credit and Debit Cards,2026-02-28,Delivered
+ORD129,CUS154,P105,5,19.36,Home & Garden,Cryptocurrency,2025-07-22,In Transit
+ORD130,CUS10,P36,1,421.52,Consumer Electronics,Cash on Delivery,2025-08-10,Shipped
+ORD131,CUS21,P136,1,295.71,Pet Care & Supplies,Cash on Delivery,2025-08-15,In Transit
+ORD132,CUS264,P45,4,207.11,Pet Care & Supplies,Credit and Debit Cards,2025-08-30,Shipped
+ORD133,CUS239,P48,4,18.65,Consumer Electronics,Cryptocurrency,2025-05-20,Delivered
+ORD134,CUS266,P136,4,176.98,Media & Books,Cash on Delivery,2025-09-06,In Transit
+ORD135,CUS283,P267,4,276.01,Fashion & Accessories,Cryptocurrency,2026-03-22,Cancelled
+ORD136,CUS463,P244,1,321.45,Home & Garden,Credit and Debit Cards,2025-10-10,In Transit
+ORD137,CUS7,P244,5,148.89,Home & Garden,Bank Transfers,2026-01-07,Cancelled
+ORD138,CUS479,P118,2,488.62,Food & Beverage,Credit and Debit Cards,2026-02-12,Shipped
+ORD139,CUS49,P268,3,179.84,Food & Beverage,BNPL Services,2025-10-03,Shipped
+ORD140,CUS87,P206,2,419.76,Fashion & Accessories,Bank Transfers,2025-10-02,Cancelled
+ORD141,CUS407,P194,4,250.85,Media & Books,Credit and Debit Cards,2025-11-23,Shipped
+ORD142,CUS54,P285,1,469.74,Consumer Electronics,Cryptocurrency,2025-06-14,Shipped
+ORD143,CUS128,P79,4,152.85,Fashion & Accessories,Bank Transfers,2025-09-09,Shipped
+ORD144,CUS135,P131,4,135.39,Consumer Electronics,Digital Wallets,2025-09-03,In Transit
+ORD145,CUS203,P235,3,485.0,Media & Books,Cryptocurrency,2025-06-02,Cancelled
+ORD146,CUS326,P136,1,277.89,Health & Beauty,Bank Transfers,2025-09-27,Shipped
+ORD147,CUS451,P228,3,494.74,Pet Care & Supplies,Credit and Debit Cards,2025-11-28,Shipped
+ORD148,CUS389,P152,5,81.87,Food & Beverage,BNPL Services,2025-05-08,Cancelled
+ORD149,CUS199,P99,5,487.72,Fashion & Accessories,Cash on Delivery,2026-03-13,Shipped
+ORD150,CUS198,P20,4,34.35,Fashion & Accessories,Bank Transfers,2026-02-10,Cancelled
+ORD151,CUS100,P281,3,305.4,Health & Beauty,BNPL Services,2025-08-24,Cancelled
+ORD152,CUS240,P17,2,267.73,Pet Care & Supplies,Digital Wallets,2025-05-30,Shipped
+ORD153,CUS490,P16,1,48.14,Home & Garden,Cash on Delivery,2025-05-22,Shipped
+ORD154,CUS200,P175,3,488.67,Home & Garden,Cryptocurrency,2025-12-28,In Transit
+ORD155,CUS54,P97,4,372.26,Pet Care & Supplies,BNPL Services,2026-02-14,Delivered
+ORD156,CUS214,P158,1,325.28,Health & Beauty,Digital Wallets,2025-11-02,Cancelled
+ORD157,CUS356,P113,2,163.89,Health & Beauty,Cryptocurrency,2025-09-08,Cancelled
+ORD158,CUS341,P46,3,334.07,Consumer Electronics,Cash on Delivery,2025-10-06,In Transit
+ORD159,CUS318,P192,1,54.24,Health & Beauty,Cryptocurrency,2026-01-11,Delivered
+ORD160,CUS378,P118,4,389.81,Health & Beauty,Credit and Debit Cards,2025-08-30,Shipped
+ORD161,CUS245,P182,4,74.03,Pet Care & Supplies,Digital Wallets,2026-04-16,Cancelled
+ORD162,CUS179,P97,3,226.31,Pet Care & Supplies,Credit and Debit Cards,2025-05-30,Cancelled
+ORD163,CUS390,P61,5,173.29,Pet Care & Supplies,Credit and Debit Cards,2026-02-27,Delivered
+ORD164,CUS105,P225,5,464.1,Food & Beverage,Cryptocurrency,2026-03-06,Delivered
+ORD165,CUS81,P38,4,498.63,Consumer Electronics,Cryptocurrency,2025-08-27,Shipped
+ORD166,CUS439,P144,1,168.24,Fashion & Accessories,Digital Wallets,2025-10-18,Cancelled
+ORD167,CUS122,P178,2,374.88,Health & Beauty,Cryptocurrency,2025-11-12,Cancelled
+ORD168,CUS300,P6,2,324.83,Fashion & Accessories,Cash on Delivery,2026-01-08,In Transit
+ORD169,CUS206,P265,3,156.93,Fashion & Accessories,Bank Transfers,2025-06-26,Delivered
+ORD170,CUS173,P187,1,226.44,Home & Garden,BNPL Services,2025-11-15,Shipped
+ORD171,CUS156,P258,5,496.49,Media & Books,Digital Wallets,2026-01-13,Delivered
+ORD172,CUS245,P153,2,150.89,Food & Beverage,Bank Transfers,2025-09-07,In Transit
+ORD173,CUS310,P48,3,383.94,Consumer Electronics,Cryptocurrency,2025-06-02,In Transit
+ORD174,CUS406,P218,3,465.9,Consumer Electronics,BNPL Services,2025-10-27,Cancelled
+ORD175,CUS256,P300,1,191.44,Food & Beverage,Cash on Delivery,2026-01-27,Shipped
+ORD176,CUS120,P192,5,55.35,Pet Care & Supplies,Digital Wallets,2026-01-18,Delivered
+ORD177,CUS145,P139,4,292.52,Health & Beauty,Credit and Debit Cards,2025-10-26,Cancelled
+ORD178,CUS161,P41,2,233.18,Home & Garden,Credit and Debit Cards,2025-07-12,Cancelled
+ORD179,CUS124,P180,5,464.31,Health & Beauty,Cryptocurrency,2026-02-08,In Transit
+ORD180,CUS24,P109,5,21.34,Fashion & Accessories,BNPL Services,2026-03-06,Delivered
+ORD181,CUS416,P227,2,342.33,Health & Beauty,Bank Transfers,2026-02-13,Delivered
+ORD182,CUS434,P51,2,212.03,Consumer Electronics,Cash on Delivery,2025-07-04,Delivered
+ORD183,CUS136,P241,1,288.27,Home & Garden,Cryptocurrency,2025-07-26,Delivered
+ORD184,CUS223,P49,3,88.59,Media & Books,BNPL Services,2025-10-18,Cancelled
+ORD185,CUS306,P267,3,32.34,Home & Garden,Digital Wallets,2025-06-21,Shipped
+ORD186,CUS295,P230,3,366.29,Food & Beverage,BNPL Services,2025-04-23,In Transit
+ORD187,CUS219,P34,3,206.09,Health & Beauty,Credit and Debit Cards,2025-10-15,Delivered
+ORD188,CUS346,P290,-4,475.92,Home & Garden,Cryptocurrency,2025-05-21,Shipped
+ORD189,CUS399,P163,5,178.75,Media & Books,Credit and Debit Cards,2025-11-17,In Transit
+ORD190,CUS198,P296,1,489.22,Pet Care & Supplies,Digital Wallets,2025-06-04,Cancelled
+ORD191,CUS259,P204,2,207.06,Consumer Electronics,Cryptocurrency,2025-09-27,In Transit
+ORD192,CUS8,P172,4,472.62,Media & Books,BNPL Services,2026-04-14,In Transit
+ORD193,CUS148,P201,1,170.34,Health & Beauty,Digital Wallets,2026-01-23,In Transit
+ORD194,CUS162,P41,1,176.76,Fashion & Accessories,Cryptocurrency,2025-09-27,Cancelled
+ORD195,CUS111,P179,2,197.43,Health & Beauty,Cryptocurrency,2026-03-28,Shipped
+ORD196,CUS440,P136,2,79.17,Pet Care & Supplies,Digital Wallets,2025-12-19,Delivered
+ORD197,CUS158,P108,3,290.81,Media & Books,Bank Transfers,2025-12-05,Delivered
+ORD198,CUS128,P195,5,42.33,Pet Care & Supplies,Digital Wallets,2026-02-08,Cancelled
+ORD199,CUS121,P107,3,398.29,Pet Care & Supplies,Cryptocurrency,2025-11-14,Shipped
+ORD200,CUS49,P111,2,409.0,Fashion & Accessories,BNPL Services,2025-12-12,Shipped
+ORD201,CUS495,P251,5,391.86,Health & Beauty,Cash on Delivery,2025-07-13,Shipped
+ORD202,CUS303,P226,5,98.17,Home & Garden,Digital Wallets,2025-07-25,Delivered
+ORD203,CUS93,P3,3,48.39,Fashion & Accessories,Cash on Delivery,2025-07-27,Shipped
+ORD204,CUS331,P132,5,355.74,Home & Garden,Bank Transfers,2025-05-30,In Transit
+ORD205,CUS234,P271,3,231.46,Media & Books,Cryptocurrency,2025-10-28,Delivered
+ORD206,CUS379,P187,5,314.39,Media & Books,BNPL Services,2025-10-24,Delivered
+ORD207,CUS409,P9,1,476.72,Home & Garden,BNPL Services,2025-07-26,In Transit
+ORD208,,P187,4,81.4,Health & Beauty,Digital Wallets,2026-04-04,Cancelled
+ORD209,CUS342,P20,2,476.71,Health & Beauty,Digital Wallets,2026-03-14,In Transit
+ORD210,CUS299,P129,2,340.02,Health & Beauty,Digital Wallets,2025-10-08,Cancelled
+ORD211,CUS183,P87,1,157.5,Media & Books,Bank Transfers,2025-05-29,Shipped
+ORD212,CUS10,P221,5,305.43,Fashion & Accessories,Cash on Delivery,2026-03-31,Shipped
+ORD213,CUS179,P242,3,109.73,Health & Beauty,Credit and Debit Cards,2025-07-31,Delivered
+ORD214,CUS16,P273,3,491.8,Health & Beauty,Cryptocurrency,2026-02-06,In Transit
+ORD215,CUS132,P17,3,214.38,Food & Beverage,Credit and Debit Cards,2026-02-19,Cancelled
+ORD216,CUS341,P206,3,274.55,Health & Beauty,Cryptocurrency,2026-02-07,Cancelled
+ORD217,CUS361,P99,4,109.21,Pet Care & Supplies,Cryptocurrency,2026-01-13,Cancelled
+ORD218,CUS338,P100,5,214.95,Health & Beauty,Digital Wallets,2026-03-13,Cancelled
+ORD219,CUS1,P20,1,339.97,Media & Books,Bank Transfers,2025-10-06,Delivered
+ORD220,CUS85,P100,1,287.8,Fashion & Accessories,Cash on Delivery,2025-08-23,Delivered
+ORD221,CUS134,P249,2,275.06,Food & Beverage,BNPL Services,2025-10-16,Delivered
+ORD222,CUS61,P122,4,206.7,Home & Garden,Cryptocurrency,2025-07-13,In Transit
+ORD223,CUS408,P187,2,366.82,Home & Garden,Cryptocurrency,2025-06-06,Delivered
+ORD224,CUS60,P19,4,162.76,Pet Care & Supplies,Bank Transfers,2025-12-03,In Transit
+ORD225,CUS334,P66,5,199.46,Pet Care & Supplies,Digital Wallets,2025-11-13,Shipped
+ORD226,CUS348,P212,1,87.7,Media & Books,BNPL Services,2025-06-19,In Transit
+ORD227,CUS65,P219,5,250.92,Fashion & Accessories,Bank Transfers,2025-06-11,Cancelled
+ORD228,CUS119,P126,4,494.41,Fashion & Accessories,Cash on Delivery,2025-08-07,In Transit
+ORD229,CUS219,P142,3,196.17,Media & Books,Credit and Debit Cards,2025-06-22,In Transit
+ORD230,CUS9,P265,5,277.39,Media & Books,Invalid Payment,2025-09-05,Delivered
+ORD231,CUS104,P203,5,482.61,Food & Beverage,BNPL Services,2026-01-01,Delivered
+ORD232,CUS462,P211,5,433.29,Health & Beauty,BNPL Services,2026-03-10,Cancelled
+ORD233,CUS185,P69,5,52.73,Consumer Electronics,Cash on Delivery,2025-07-05,Delivered
+ORD234,CUS84,P5,5,168.88,Food & Beverage,Cash on Delivery,2025-08-02,Shipped
+ORD235,CUS130,P118,2,97.13,Food & Beverage,Credit and Debit Cards,2025-07-26,Cancelled
+ORD236,CUS226,P11,3,12.93,Media & Books,Cryptocurrency,2025-11-24,Shipped
+ORD237,CUS314,P130,3,259.35,Home & Garden,Cash on Delivery,2025-09-17,Cancelled
+ORD238,CUS196,P149,5,144.25,Health & Beauty,Digital Wallets,2026-01-02,Shipped
+ORD239,CUS356,P50,3,455.16,Fashion & Accessories,Bank Transfers,2025-11-30,In Transit
+ORD240,CUS222,P7,3,316.16,Health & Beauty,Digital Wallets,2026-05-19 00:17:24.476881,Delivered
+ORD241,CUS353,P119,5,359.78,Pet Care & Supplies,Cryptocurrency,2025-04-29,Delivered
+ORD242,CUS142,P77,1,92.05,Pet Care & Supplies,Cash on Delivery,2026-04-14,In Transit
+ORD243,CUS142,P214,5,239.82,Home & Garden,Digital Wallets,2026-02-01,Delivered
+ORD244,CUS155,P68,5,456.61,Health & Beauty,Bank Transfers,2025-09-09,Delivered
+ORD245,CUS46,P78,3,24.08,Pet Care & Supplies,Digital Wallets,2025-08-04,In Transit
+ORD246,CUS153,P91,-5,157.44,Consumer Electronics,Bank Transfers,2026-03-10,Shipped
+ORD247,CUS274,P219,4,383.9,Media & Books,Cash on Delivery,2026-03-08,Cancelled
+ORD248,CUS255,P192,3,427.33,Food & Beverage,BNPL Services,2025-06-18,Delivered
+ORD249,CUS348,P177,1,14.03,Media & Books,Digital Wallets,2025-11-16,Delivered
+ORD250,CUS123,P75,4,394.44,Consumer Electronics,Cryptocurrency,2026-03-29,Cancelled
+ORD251,CUS301,P26,1,48.44,Fashion & Accessories,Bank Transfers,2026-01-10,In Transit
+ORD252,CUS109,P256,3,47.13,Consumer Electronics,Invalid Payment,2026-03-09,Cancelled
+ORD253,CUS487,P146,5,499.53,Home & Garden,Bank Transfers,2025-12-28,Shipped
+ORD254,CUS124,P63,2,263.55,Consumer Electronics,Cryptocurrency,2025-05-27,Shipped
+ORD255,CUS369,P221,1,79.29,Health & Beauty,Credit and Debit Cards,2026-03-22,In Transit
+ORD256,CUS417,P121,3,102.43,Food & Beverage,Bank Transfers,2025-10-12,Delivered
+ORD257,CUS449,P119,3,292.5,Food & Beverage,Cash on Delivery,2025-11-05,Cancelled
+ORD258,CUS98,P30,5,215.4,Fashion & Accessories,Credit and Debit Cards,2025-09-16,Shipped
+ORD259,CUS154,P34,5,347.68,Health & Beauty,Cash on Delivery,2025-07-08,Shipped
+ORD260,CUS337,P211,4,23.24,Health & Beauty,Credit and Debit Cards,2025-07-28,In Transit
+ORD261,CUS88,P71,2,248.56,Home & Garden,Digital Wallets,2026-02-14,Cancelled
+ORD262,CUS479,P135,1,478.79,Pet Care & Supplies,Digital Wallets,2026-01-02,Delivered
+ORD263,CUS487,P288,2,214.37,Media & Books,Cryptocurrency,2025-10-15,Shipped
+ORD264,CUS200,P225,4,44.55,Health & Beauty,Cash on Delivery,2025-06-09,In Transit
+ORD265,CUS383,P194,1,465.6,Home & Garden,BNPL Services,2026-03-07,In Transit
+ORD266,CUS60,P207,1,224.79,Pet Care & Supplies,BNPL Services,2025-09-19,Cancelled
+ORD267,CUS247,P76,3,352.83,Health & Beauty,Digital Wallets,2026-01-14,Delivered
+ORD268,CUS286,P34,3,226.18,Health & Beauty,Cryptocurrency,2026-05-19 00:17:24.477016,Shipped
+ORD269,CUS479,P287,1,300.13,Home & Garden,BNPL Services,2025-06-13,In Transit
+ORD270,CUS316,P68,5,362.78,Health & Beauty,Digital Wallets,2025-05-29,Delivered
+ORD271,CUS28,P251,2,269.74,Media & Books,BNPL Services,2025-12-11,Cancelled
+ORD272,CUS312,P224,4,28.82,Fashion & Accessories,Bank Transfers,2025-09-25,Delivered
+ORD273,CUS24,P201,1,467.02,Home & Garden,Cash on Delivery,2025-06-19,In Transit
+ORD274,CUS341,P139,4,354.51,Health & Beauty,Cryptocurrency,2026-04-11,In Transit
+ORD275,CUS276,P286,4,298.61,Pet Care & Supplies,Bank Transfers,2026-03-09,In Transit
+ORD276,CUS359,P156,5,210.74,Fashion & Accessories,Cash on Delivery,2026-03-27,Shipped
+ORD277,CUS422,P234,4,286.82,Media & Books,Cryptocurrency,2025-07-27,Shipped
+ORD278,CUS173,P100,5,349.3,Health & Beauty,Credit and Debit Cards,2026-01-23,Shipped
+ORD279,CUS49,P261,2,463.45,Consumer Electronics,Bank Transfers,2025-10-01,In Transit
+ORD280,CUS215,P176,4,438.1,Pet Care & Supplies,Cryptocurrency,2025-09-29,Cancelled
+ORD281,CUS76,P243,1,138.66,Pet Care & Supplies,Digital Wallets,2025-05-18,In Transit
+ORD282,CUS205,P222,4,223.65,Food & Beverage,BNPL Services,2026-03-24,Delivered
+ORD283,CUS330,P6,2,123.61,Food & Beverage,Bank Transfers,2025-08-07,Shipped
+ORD284,CUS405,P22,4,393.82,Media & Books,Digital Wallets,2025-05-05,Shipped
+ORD285,CUS264,P60,1,194.67,Home & Garden,Cash on Delivery,2026-04-18,Shipped
+ORD286,CUS239,P244,2,421.55,Fashion & Accessories,Cash on Delivery,2026-03-06,Cancelled
+ORD287,CUS258,P131,3,253.43,Fashion & Accessories,Digital Wallets,2025-05-25,In Transit
+ORD288,CUS265,P33,3,310.79,Fashion & Accessories,Credit and Debit Cards,2026-01-26,Delivered
+ORD289,CUS180,P105,4,246.58,Consumer Electronics,BNPL Services,2025-12-08,In Transit
+ORD290,CUS274,P255,5,253.54,Fashion & Accessories,Invalid Payment,2026-03-07,Shipped
+ORD291,CUS250,P283,2,20.68,Food & Beverage,BNPL Services,2025-09-20,Shipped
+ORD292,CUS268,P255,2,338.52,Media & Books,Credit and Debit Cards,2026-01-16,Delivered
+ORD293,CUS75,P156,1,102.95,Pet Care & Supplies,Cash on Delivery,2025-11-30,In Transit
+ORD294,CUS336,P79,4,56.51,Media & Books,Cryptocurrency,2025-05-12,Cancelled
+ORD295,CUS265,P60,1,293.52,Consumer Electronics,Cash on Delivery,2025-08-14,Delivered
+ORD296,CUS120,P238,2,440.48,Fashion & Accessories,Bank Transfers,2025-08-30,Cancelled
+ORD297,CUS247,P121,4,25.56,Fashion & Accessories,Credit and Debit Cards,2025-12-22,In Transit
+ORD298,CUS14,P45,5,35.74,Media & Books,Cryptocurrency,2025-09-24,Delivered
+ORD299,CUS471,P113,3,240.29,Consumer Electronics,Cash on Delivery,2026-01-09,Shipped
+ORD300,CUS477,P78,1,382.42,Home & Garden,Cryptocurrency,2025-10-17,Delivered
+ORD301,CUS412,P32,1,191.33,Home & Garden,Cash on Delivery,2026-03-08,In Transit
+ORD302,CUS87,P253,1,222.58,Pet Care & Supplies,Digital Wallets,2025-12-11,Cancelled
+ORD303,CUS338,P36,5,120.11,Home & Garden,Credit and Debit Cards,2026-03-02,Shipped
+ORD304,CUS345,P155,4,301.11,Pet Care & Supplies,BNPL Services,2025-06-23,Shipped
+ORD305,CUS465,P61,5,429.06,Fashion & Accessories,Credit and Debit Cards,2026-03-11,Shipped
+ORD306,CUS83,P13,3,297.9,Consumer Electronics,Bank Transfers,2026-02-10,Shipped
+ORD307,CUS384,P274,3,339.76,Home & Garden,Credit and Debit Cards,2025-09-03,Cancelled
+ORD308,CUS160,P277,-2,144.49,Media & Books,BNPL Services,2025-06-19,In Transit
+ORD309,CUS120,P192,3,135.93,Media & Books,BNPL Services,2026-02-20,In Transit
+ORD310,CUS212,P184,5,300.77,Media & Books,Credit and Debit Cards,2025-07-10,Delivered
+ORD311,CUS343,P186,1,149.07,Home & Garden,Digital Wallets,2026-03-09,Cancelled
+ORD312,CUS10,P80,4,114.82,Food & Beverage,Credit and Debit Cards,2026-04-03,Shipped
+ORD313,CUS328,P36,1,324.98,Home & Garden,BNPL Services,2026-01-05,Delivered
+ORD314,CUS278,P89,1,-68.51931090284103,Food & Beverage,Digital Wallets,2026-04-02,Shipped
+ORD315,CUS446,P223,1,423.3,Health & Beauty,Digital Wallets,2026-02-14,Shipped
+ORD316,CUS55,P263,3,99.79,Media & Books,Cash on Delivery,2025-09-14,In Transit
+ORD317,CUS450,P249,3,286.75,Media & Books,Bank Transfers,2026-03-25,Shipped
+ORD318,CUS440,P70,2,197.35,Consumer Electronics,Digital Wallets,2026-04-05,Delivered
+ORD319,CUS16,P106,5,345.17,Consumer Electronics,Credit and Debit Cards,2025-05-17,Shipped
+ORD320,CUS47,P253,-1,290.39,Home & Garden,Cryptocurrency,2025-08-18,Shipped
+ORD321,CUS280,P106,2,441.77,Fashion & Accessories,Cash on Delivery,2025-11-15,Shipped
+ORD322,CUS293,P281,3,222.92,Health & Beauty,Bank Transfers,2025-05-30,Shipped
+ORD323,CUS108,P90,5,229.88,Media & Books,Credit and Debit Cards,2026-01-16,In Transit
+ORD324,CUS42,P144,2,268.54,Media & Books,Bank Transfers,2025-11-28,Delivered
+ORD325,CUS388,P294,5,72.73,Consumer Electronics,Cryptocurrency,2025-05-21,Cancelled
+ORD326,CUS301,P277,2,157.71,Health & Beauty,BNPL Services,2026-02-24,In Transit
+ORD327,CUS276,P88,2,398.6,Consumer Electronics,Cryptocurrency,2025-07-27,Shipped
+ORD328,CUS32,P35,3,162.87,Pet Care & Supplies,Cryptocurrency,2025-07-24,In Transit
+ORD329,CUS89,P218,3,291.89,Health & Beauty,Digital Wallets,2025-07-13,In Transit
+ORD330,CUS396,P280,3,270.09,Fashion & Accessories,Cryptocurrency,2026-01-24,Shipped
+ORD331,CUS490,P199,2,413.39,Consumer Electronics,Bank Transfers,2025-10-14,Shipped
+ORD332,CUS59,P51,5,484.95,Media & Books,Digital Wallets,2026-03-11,Delivered
+ORD333,CUS160,P134,2,37.47,Health & Beauty,Digital Wallets,2025-06-20,Delivered
+ORD334,CUS302,P3,5,135.56,Media & Books,Cryptocurrency,2025-06-24,Delivered
+ORD335,CUS38,P67,4,434.14,Food & Beverage,Bank Transfers,2025-04-25,Shipped
+ORD336,CUS295,P34,5,399.73,Health & Beauty,BNPL Services,2025-10-17,Delivered
+ORD337,CUS477,P233,2,483.88,Consumer Electronics,Bank Transfers,2026-01-09,In Transit
+ORD338,CUS68,P196,2,138.95,Consumer Electronics,Bank Transfers,2025-09-06,Cancelled
+ORD339,CUS131,P250,4,433.56,Pet Care & Supplies,Cash on Delivery,2025-07-07,Shipped
+ORD340,CUS128,P175,5,324.25,Pet Care & Supplies,BNPL Services,2025-07-07,In Transit
+ORD341,CUS333,P266,3,281.35,Health & Beauty,BNPL Services,2025-08-23,Delivered
+ORD342,CUS297,P80,1,477.4,Fashion & Accessories,Cash on Delivery,2026-02-17,Delivered
+ORD343,CUS176,P1,5,120.99,Media & Books,Digital Wallets,2025-10-23,Shipped
+ORD344,,P119,5,78.21,Home & Garden,Cryptocurrency,2025-05-08,Cancelled
+ORD345,CUS339,P239,3,366.1,Media & Books,Cryptocurrency,2025-05-15,In Transit
+ORD346,CUS314,P187,2,106.73,Fashion & Accessories,Cash on Delivery,2025-05-29,Shipped
+ORD347,CUS210,P286,2,217.73,Home & Garden,Cryptocurrency,2025-09-15,Cancelled
+ORD348,CUS272,P186,-2,490.78,Food & Beverage,Digital Wallets,2025-09-06,Cancelled
+ORD349,CUS447,P203,3,32.65,Media & Books,Digital Wallets,2026-02-09,Delivered
+ORD350,CUS13,P166,4,282.23,Media & Books,Bank Transfers,2025-06-24,Cancelled
+ORD351,CUS82,P18,3,20.14,Home & Garden,Credit and Debit Cards,2025-10-15,Delivered
+ORD352,CUS133,P252,2,139.25,Fashion & Accessories,Credit and Debit Cards,2026-04-13,Cancelled
+ORD353,CUS184,P222,1,207.59,Pet Care & Supplies,Bank Transfers,2025-08-25,Shipped
+ORD354,CUS371,P28,5,479.09,Home & Garden,Credit and Debit Cards,2026-04-18,Delivered
+ORD355,CUS149,P283,3,460.49,Pet Care & Supplies,Cryptocurrency,2025-07-06,Cancelled
+ORD356,CUS331,P227,1,205.75,Health & Beauty,Bank Transfers,2025-11-16,Delivered
+ORD357,CUS450,P35,5,160.58,Consumer Electronics,Credit and Debit Cards,2025-11-28,Delivered
+ORD358,CUS411,P192,4,455.56,Consumer Electronics,BNPL Services,2025-09-24,Delivered
+ORD359,CUS174,P73,1,139.08,Media & Books,BNPL Services,2026-02-20,In Transit
+ORD360,CUS340,P299,5,395.2,Health & Beauty,Cash on Delivery,2025-12-11,Shipped
+ORD361,CUS240,P57,2,466.2,Food & Beverage,BNPL Services,2026-02-18,Cancelled
+ORD362,CUS128,P133,4,403.32,Health & Beauty,Credit and Debit Cards,2026-02-16,Delivered
+ORD363,CUS135,P100,3,37.68,Food & Beverage,Cryptocurrency,2025-10-22,Cancelled
+ORD364,CUS292,P136,2,157.98,Consumer Electronics,Cryptocurrency,2025-10-11,Shipped
+ORD365,CUS430,P160,4,118.31,Health & Beauty,Credit and Debit Cards,2025-12-17,In Transit
+ORD366,CUS401,P198,3,13.88,Consumer Electronics,Digital Wallets,2025-12-30,In Transit
+ORD367,CUS294,P123,5,383.42,Home & Garden,BNPL Services,2025-12-18,In Transit
+ORD368,CUS95,P179,4,398.33,Consumer Electronics,Digital Wallets,2026-03-05,Delivered
+ORD369,CUS405,P76,4,170.55,Health & Beauty,Digital Wallets,2025-08-10,Cancelled
+ORD370,CUS178,P150,4,428.52,Health & Beauty,Cryptocurrency,2025-06-04,Shipped
+ORD371,CUS166,P31,1,412.8,Fashion & Accessories,Bank Transfers,2025-09-24,Shipped
+ORD372,CUS77,P111,4,176.14,Food & Beverage,Cash on Delivery,2025-08-20,In Transit
+ORD373,CUS210,P206,2,98.18,Home & Garden,Cash on Delivery,2025-11-23,Cancelled
+ORD374,CUS327,P247,4,446.33,Consumer Electronics,BNPL Services,2026-01-02,In Transit
+ORD375,CUS397,P94,1,256.4,Home & Garden,Cryptocurrency,2026-04-16,Shipped
+ORD376,CUS35,P179,1,367.94,Home & Garden,Cryptocurrency,2026-02-08,Cancelled
+ORD377,CUS23,P227,5,302.93,Home & Garden,Digital Wallets,2026-01-13,In Transit
+ORD378,CUS61,P47,2,73.88,Food & Beverage,Cash on Delivery,2026-02-07,Shipped
+ORD379,CUS298,P278,2,277.32,Home & Garden,Bank Transfers,2025-11-27,Delivered
+ORD380,CUS410,P258,5,297.1,Health & Beauty,Credit and Debit Cards,2025-06-23,Shipped
+ORD381,CUS336,P63,5,483.67,Pet Care & Supplies,Credit and Debit Cards,2026-01-14,Delivered
+ORD382,CUS438,P24,5,267.89,Pet Care & Supplies,BNPL Services,2025-05-13,In Transit
+ORD383,CUS397,P1,3,228.51,Pet Care & Supplies,Cash on Delivery,2025-09-03,In Transit
+ORD384,CUS31,P244,2,177.72,Fashion & Accessories,Credit and Debit Cards,2025-08-12,In Transit
+ORD385,CUS116,P66,2,396.49,Pet Care & Supplies,Credit and Debit Cards,2026-01-10,Delivered
+ORD386,CUS377,P89,1,18.44,Home & Garden,Credit and Debit Cards,2025-12-13,Delivered
+ORD387,CUS308,P227,3,152.37,Fashion & Accessories,BNPL Services,2026-02-01,Cancelled
+ORD388,CUS57,P261,4,476.33,Home & Garden,Bank Transfers,2025-12-07,Cancelled
+ORD389,CUS60,P84,3,148.79,Food & Beverage,Digital Wallets,2026-03-25,Shipped
+ORD390,CUS170,P74,4,209.03,Home & Garden,Cash on Delivery,2026-03-04,Delivered
+ORD391,CUS203,P284,1,50.8,Media & Books,Cryptocurrency,2026-01-10,Delivered
+ORD392,CUS365,P136,3,162.95,Consumer Electronics,Cash on Delivery,2026-03-30,In Transit
+ORD393,CUS42,P288,5,217.73,Health & Beauty,BNPL Services,2026-04-17,Cancelled
+ORD394,CUS71,P228,5,146.01,Health & Beauty,BNPL Services,2025-10-08,In Transit
+ORD395,CUS306,P249,-1,90.46,Food & Beverage,BNPL Services,2025-05-16,In Transit
+ORD396,CUS271,P66,1,116.02,Media & Books,Cash on Delivery,2025-04-18,Delivered
+ORD397,CUS303,P16,1,384.45,Home & Garden,Digital Wallets,2025-08-06,Cancelled
+ORD398,CUS197,P249,4,483.87,Fashion & Accessories,Bank Transfers,2025-06-11,Cancelled
+ORD399,CUS250,P80,3,153.56,Fashion & Accessories,Cash on Delivery,2025-07-04,Delivered
+ORD400,CUS259,P295,2,200.05,Media & Books,BNPL Services,2025-08-20,Shipped
+ORD401,CUS256,P188,3,22.25,Home & Garden,Cash on Delivery,2025-10-21,Cancelled
+ORD402,CUS418,P176,4,258.39,Home & Garden,Cash on Delivery,2026-04-08,In Transit
+ORD403,CUS142,P292,3,132.06,Pet Care & Supplies,Cryptocurrency,2026-04-16,Cancelled
+ORD404,CUS230,P225,2,48.68,Media & Books,BNPL Services,2025-10-05,Cancelled
+ORD405,CUS262,P297,2,322.66,Health & Beauty,Digital Wallets,2026-04-15,Cancelled
+ORD406,CUS95,P141,5,360.56,Media & Books,Bank Transfers,2026-04-18,In Transit
+ORD407,CUS226,P117,4,276.16,Health & Beauty,Cash on Delivery,2025-12-26,Shipped
+ORD408,CUS463,P185,2,402.46,Pet Care & Supplies,Credit and Debit Cards,2026-02-16,Delivered
+ORD409,CUS378,P253,3,364.66,Pet Care & Supplies,Invalid Payment,2026-02-03,In Transit
+ORD410,CUS146,P117,3,-67.56649286414903,Fashion & Accessories,BNPL Services,2025-11-14,Delivered
+ORD411,CUS353,P193,5,18.25,Food & Beverage,Bank Transfers,2026-03-05,In Transit
+ORD412,CUS227,P283,1,391.52,Media & Books,BNPL Services,2025-09-17,In Transit
+ORD413,CUS342,P66,5,341.1,Media & Books,Cash on Delivery,2025-10-09,In Transit
+ORD414,CUS1,P268,3,163.0,Media & Books,BNPL Services,2025-05-27,Delivered
+ORD415,CUS436,P260,4,97.74,Health & Beauty,Digital Wallets,2025-10-21,Cancelled
+ORD416,CUS370,P171,5,19.29,Consumer Electronics,BNPL Services,2025-11-17,Cancelled
+ORD417,CUS442,P263,2,88.21,Food & Beverage,Bank Transfers,2026-02-01,Delivered
+ORD418,CUS237,P183,4,325.23,Food & Beverage,Cryptocurrency,2026-03-24,Delivered
+ORD419,CUS135,P226,2,65.22,Fashion & Accessories,Cryptocurrency,2025-08-25,In Transit
+ORD420,CUS182,P287,2,249.96,Consumer Electronics,Bank Transfers,2026-03-23,Shipped
+ORD421,CUS172,P80,5,108.22,Media & Books,Cryptocurrency,2025-12-25,In Transit
+ORD422,CUS385,P17,1,395.64,Home & Garden,BNPL Services,2025-08-29,Delivered
+ORD423,CUS55,P282,5,54.38,Fashion & Accessories,Credit and Debit Cards,2025-05-19,Cancelled
+ORD424,CUS286,P153,5,153.4,Pet Care & Supplies,BNPL Services,2025-05-17,Cancelled
+ORD425,CUS470,P165,1,262.66,Pet Care & Supplies,Digital Wallets,2026-01-03,Shipped
+ORD426,CUS175,P217,4,162.5,Pet Care & Supplies,BNPL Services,2025-07-26,Cancelled
+ORD427,CUS46,P262,1,142.09,Home & Garden,Cash on Delivery,2025-06-16,Delivered
+ORD428,CUS354,P263,2,177.03,Food & Beverage,Credit and Debit Cards,2026-03-19,Cancelled
+ORD429,CUS212,P281,4,95.09,Media & Books,Digital Wallets,2026-03-22,Shipped
+ORD430,CUS2,P85,2,128.81,Home & Garden,Digital Wallets,2025-05-14,Shipped
+ORD431,CUS120,P161,2,429.93,Fashion & Accessories,Digital Wallets,2025-11-27,Cancelled
+ORD432,CUS240,P284,2,436.09,Home & Garden,Bank Transfers,2026-03-05,Cancelled
+ORD433,CUS311,P79,1,239.09,Health & Beauty,Digital Wallets,2026-02-24,Shipped
+ORD434,CUS164,P263,3,265.72,Pet Care & Supplies,Cryptocurrency,2026-05-19 00:17:24.476838,Cancelled
+ORD435,CUS102,P98,4,49.92,Pet Care & Supplies,Digital Wallets,2025-10-29,Delivered
+ORD436,CUS193,P265,5,421.1,Food & Beverage,BNPL Services,2025-07-13,Delivered
+ORD437,CUS477,P156,4,394.55,Consumer Electronics,BNPL Services,2025-09-13,Delivered
+ORD438,CUS276,P237,1,101.62,Media & Books,BNPL Services,2025-10-02,Delivered
+ORD439,CUS317,P77,5,33.85,Pet Care & Supplies,Bank Transfers,2025-11-16,Delivered
+ORD440,CUS193,P5,4,313.08,Consumer Electronics,Digital Wallets,2025-11-09,Cancelled
+ORD441,CUS389,P145,2,63.41,Media & Books,Credit and Debit Cards,2025-06-16,Cancelled
+ORD442,CUS102,P272,3,377.48,Pet Care & Supplies,Cryptocurrency,2025-12-23,Shipped
+ORD443,CUS38,P178,2,436.4,Food & Beverage,Bank Transfers,2025-06-25,Delivered
+ORD444,CUS263,P143,4,44.44,Health & Beauty,Credit and Debit Cards,2025-09-10,Cancelled
+ORD445,CUS137,P23,4,285.69,Pet Care & Supplies,BNPL Services,2025-09-01,Cancelled
+ORD446,CUS86,P20,5,160.19,Fashion & Accessories,Cash on Delivery,2026-03-27,Cancelled
+ORD447,CUS388,P253,1,434.4,Media & Books,Credit and Debit Cards,2025-07-28,Delivered
+ORD448,CUS339,P25,5,267.06,Pet Care & Supplies,Cryptocurrency,2025-06-10,Shipped
+ORD449,CUS492,P118,5,409.22,Health & Beauty,Bank Transfers,2025-12-26,Delivered
+ORD450,CUS358,P198,3,73.42,Fashion & Accessories,Digital Wallets,2025-11-07,Delivered
+ORD451,CUS333,P119,4,249.97,Food & Beverage,BNPL Services,2026-01-20,Cancelled
+ORD452,CUS497,P55,5,130.44,Pet Care & Supplies,Cryptocurrency,2025-08-07,In Transit
+ORD453,CUS2,P218,5,139.52,Food & Beverage,Bank Transfers,2025-08-03,Shipped
+ORD454,CUS170,P1,5,37.24,Consumer Electronics,Cash on Delivery,2025-05-13,Delivered
+ORD455,CUS212,P195,4,350.0,Food & Beverage,Credit and Debit Cards,2025-11-13,Delivered
+ORD456,CUS100,P228,4,279.88,Consumer Electronics,Cryptocurrency,2025-07-29,Delivered
+ORD457,CUS477,P230,5,128.79,Health & Beauty,Invalid Payment,2025-09-25,In Transit
+ORD458,CUS387,P279,3,174.79,Health & Beauty,Cryptocurrency,2026-04-05,In Transit
+ORD459,CUS476,P138,4,355.55,Pet Care & Supplies,Digital Wallets,2025-05-12,Shipped
+ORD460,CUS363,P94,5,106.92,Consumer Electronics,BNPL Services,2026-02-05,In Transit
+ORD461,CUS34,P118,4,457.91,Food & Beverage,Credit and Debit Cards,2026-04-09,Shipped
+ORD462,CUS29,P266,1,199.24,Consumer Electronics,BNPL Services,2026-01-17,Delivered
+ORD463,CUS388,P137,5,315.23,Media & Books,Bank Transfers,2025-09-10,Cancelled
+ORD464,CUS386,P107,2,330.17,Fashion & Accessories,Bank Transfers,2026-03-04,Delivered
+ORD465,CUS121,P31,3,149.92,Home & Garden,Bank Transfers,2025-04-30,In Transit
+ORD466,CUS120,P78,2,381.07,Pet Care & Supplies,Cryptocurrency,2025-08-22,Shipped
+ORD467,CUS21,P229,1,288.82,Home & Garden,Credit and Debit Cards,2026-03-19,Delivered
+ORD468,CUS129,P48,-3,102.53,Fashion & Accessories,Cash on Delivery,2025-04-30,Delivered
+ORD469,CUS137,P189,1,239.11,Consumer Electronics,Digital Wallets,2025-06-24,In Transit
+ORD470,CUS16,P23,3,177.69,Consumer Electronics,BNPL Services,2025-09-07,Shipped
+ORD471,CUS255,P23,5,268.17,Consumer Electronics,Digital Wallets,2025-10-04,Cancelled
+ORD472,CUS445,P206,5,472.06,Fashion & Accessories,Digital Wallets,2026-02-03,Cancelled
+ORD473,CUS471,P254,5,246.4,Pet Care & Supplies,Digital Wallets,2026-03-19,Delivered
+ORD474,CUS162,P178,5,46.93,Consumer Electronics,Digital Wallets,2026-04-05,Delivered
+ORD475,CUS261,P164,5,341.71,Media & Books,Cryptocurrency,2025-06-19,In Transit
+ORD476,CUS140,P289,2,79.68,Consumer Electronics,Digital Wallets,2025-04-23,Delivered
+ORD477,CUS19,P249,3,250.3,Pet Care & Supplies,Credit and Debit Cards,2025-09-22,Cancelled
+ORD478,CUS380,P131,1,232.65,Home & Garden,Invalid Payment,2026-02-04,In Transit
+ORD479,CUS318,P115,3,408.13,Fashion & Accessories,Credit and Debit Cards,2025-12-10,Delivered
+ORD480,CUS386,P217,5,462.46,Consumer Electronics,Credit and Debit Cards,2026-01-23,Cancelled
+ORD481,,P68,1,462.01,Fashion & Accessories,Credit and Debit Cards,2025-10-23,Cancelled
+ORD482,CUS232,P35,2,337.54,Fashion & Accessories,Credit and Debit Cards,2025-11-13,Shipped
+ORD483,CUS198,P263,4,129.75,Fashion & Accessories,BNPL Services,2026-04-10,Shipped
+ORD484,CUS84,P238,1,486.94,Home & Garden,Digital Wallets,2025-12-13,Shipped
+ORD485,CUS298,P140,5,366.37,Consumer Electronics,Digital Wallets,2025-09-27,Delivered
+ORD486,CUS390,P95,4,208.86,Health & Beauty,Bank Transfers,2025-08-13,In Transit
+ORD487,CUS129,P223,1,456.01,Health & Beauty,Cryptocurrency,2025-11-11,Delivered
+ORD488,CUS410,P294,2,414.35,Home & Garden,Bank Transfers,2025-05-22,Shipped
+ORD489,CUS7,P186,1,456.78,Media & Books,Credit and Debit Cards,2025-08-18,Shipped
+ORD490,CUS326,P294,4,97.18,Home & Garden,Cash on Delivery,2026-03-06,In Transit
+ORD491,CUS409,P22,4,319.0,Fashion & Accessories,Bank Transfers,2025-05-03,In Transit
+ORD492,CUS423,P232,2,133.07,Food & Beverage,Credit and Debit Cards,2025-05-06,Delivered
+ORD493,CUS464,P79,3,267.57,Fashion & Accessories,Invalid Payment,2025-12-07,Delivered
+ORD494,CUS41,P192,2,62.29,Health & Beauty,BNPL Services,2025-06-01,Shipped
+ORD495,CUS391,P158,5,92.32,Fashion & Accessories,BNPL Services,2025-06-22,Delivered
+ORD496,CUS74,P102,1,225.94,Pet Care & Supplies,Bank Transfers,2025-08-09,Shipped
+ORD497,CUS159,P36,3,74.89,Consumer Electronics,Digital Wallets,2025-06-02,Delivered
+ORD498,CUS403,P227,2,152.53,Health & Beauty,Cryptocurrency,2025-06-30,In Transit
+ORD499,CUS139,P184,5,164.32,Pet Care & Supplies,Cryptocurrency,2025-05-21,Delivered
+ORD500,CUS255,P106,5,201.68,Fashion & Accessories,Credit and Debit Cards,2025-08-15,Shipped
+ORD501,CUS304,P232,2,258.93,Home & Garden,Bank Transfers,2026-01-15,In Transit
+ORD502,CUS46,P242,5,344.25,Media & Books,BNPL Services,2026-01-30,Delivered
+ORD503,CUS477,P146,1,465.82,Health & Beauty,Cryptocurrency,2025-08-01,In Transit
+ORD504,CUS55,P170,1,146.53,Pet Care & Supplies,Bank Transfers,2026-02-23,In Transit
+ORD505,CUS407,P209,4,146.23,Media & Books,BNPL Services,2025-09-08,Shipped
+ORD506,CUS433,P124,2,448.12,Food & Beverage,Cash on Delivery,2025-07-24,Cancelled
+ORD507,CUS446,P69,5,78.39,Media & Books,BNPL Services,2025-11-26,In Transit
+ORD508,CUS283,P76,4,219.39,Pet Care & Supplies,BNPL Services,2026-01-02,Cancelled
+ORD509,CUS401,P220,2,184.63,Health & Beauty,Credit and Debit Cards,2025-04-26,In Transit
+ORD510,CUS40,P88,5,143.33,Media & Books,Digital Wallets,2025-08-10,Shipped
+ORD511,CUS31,P285,2,40.96,Fashion & Accessories,Cryptocurrency,2026-03-23,Shipped
+ORD512,CUS478,P132,2,344.61,Pet Care & Supplies,Digital Wallets,2025-06-16,In Transit
+ORD513,CUS255,P229,5,499.9,Media & Books,Cryptocurrency,2025-10-09,Delivered
+ORD514,CUS112,P258,1,271.76,Health & Beauty,Cash on Delivery,2025-10-24,Cancelled
+ORD515,CUS146,P245,4,433.09,Home & Garden,BNPL Services,2025-10-06,Cancelled
+ORD516,CUS78,P259,5,107.51,Fashion & Accessories,Bank Transfers,2025-12-19,Shipped
+ORD517,CUS125,P222,5,469.95,Fashion & Accessories,BNPL Services,2026-03-09,Delivered
+ORD518,CUS339,P154,5,182.41,Pet Care & Supplies,Cryptocurrency,2026-01-17,Delivered
+ORD519,CUS115,P58,3,349.38,Pet Care & Supplies,Cash on Delivery,2025-10-24,Shipped
+ORD520,CUS203,P107,4,39.09,Fashion & Accessories,Bank Transfers,2025-10-21,Cancelled
+ORD521,CUS49,P34,4,312.63,Pet Care & Supplies,Credit and Debit Cards,2025-10-19,In Transit
+ORD522,CUS203,P271,5,481.28,Food & Beverage,Credit and Debit Cards,2026-02-19,Cancelled
+ORD523,CUS135,P248,2,272.62,Health & Beauty,Digital Wallets,2025-08-05,Shipped
+ORD524,CUS306,P131,5,204.99,Fashion & Accessories,Bank Transfers,2026-03-08,Shipped
+ORD525,CUS275,P241,5,355.67,Pet Care & Supplies,Credit and Debit Cards,2025-11-15,Delivered
+ORD526,CUS375,P287,4,127.67,Media & Books,BNPL Services,2026-03-05,Delivered
+ORD527,CUS443,P76,5,125.62,Media & Books,Credit and Debit Cards,2026-01-20,In Transit
+ORD528,CUS372,P295,3,366.52,Food & Beverage,Cryptocurrency,2025-06-15,Shipped
+ORD529,CUS97,P99,5,419.15,Consumer Electronics,Cryptocurrency,2026-01-21,Shipped
+ORD530,CUS197,P272,5,324.61,Consumer Electronics,Digital Wallets,2025-08-08,Shipped
+ORD531,CUS160,P67,5,214.47,Health & Beauty,BNPL Services,2025-10-29,In Transit
+ORD532,CUS28,P48,4,126.37,Pet Care & Supplies,BNPL Services,2025-04-26,Cancelled
+ORD533,,P81,2,468.27,Home & Garden,Credit and Debit Cards,2025-12-04,Cancelled
+ORD534,CUS229,P266,5,148.0,Fashion & Accessories,BNPL Services,2025-05-16,Shipped
+ORD535,CUS439,P154,2,468.49,Fashion & Accessories,BNPL Services,2026-02-15,In Transit
+ORD536,CUS471,P266,1,107.32,Media & Books,Bank Transfers,2025-08-11,Shipped
+ORD537,CUS349,P68,5,43.41,Consumer Electronics,BNPL Services,2025-05-17,In Transit
+ORD538,CUS252,P3,4,202.46,Media & Books,Credit and Debit Cards,2025-11-12,Delivered
+ORD539,CUS154,P162,3,107.95,Media & Books,Digital Wallets,2026-01-17,Cancelled
+ORD540,CUS187,P200,4,464.53,Consumer Electronics,Bank Transfers,2025-09-26,Shipped
+ORD541,CUS380,P300,3,364.37,Home & Garden,Credit and Debit Cards,2026-03-30,Shipped
+ORD542,CUS31,P32,5,374.35,Fashion & Accessories,Cash on Delivery,2026-03-21,Shipped
+ORD543,CUS391,P135,1,301.41,Consumer Electronics,Cryptocurrency,2025-06-09,In Transit
+ORD544,CUS58,P101,1,110.51,Pet Care & Supplies,BNPL Services,2026-01-21,Cancelled
+ORD545,CUS366,P231,5,29.55,Consumer Electronics,Digital Wallets,2025-05-08,Cancelled
+ORD546,CUS25,P103,1,24.44,Fashion & Accessories,Digital Wallets,2026-02-16,Delivered
+ORD547,CUS256,P156,2,353.79,Fashion & Accessories,Credit and Debit Cards,2026-02-04,In Transit
+ORD548,CUS180,P65,3,413.21,Food & Beverage,Cryptocurrency,2025-07-02,Delivered
+ORD549,CUS122,P41,2,147.04,Pet Care & Supplies,Bank Transfers,2025-10-18,In Transit
+ORD550,CUS242,P69,5,57.49,Fashion & Accessories,Cash on Delivery,2026-02-28,Cancelled
+ORD551,CUS196,P150,1,164.99,Media & Books,Cryptocurrency,2025-08-31,In Transit
+ORD552,CUS427,P252,1,389.3,Health & Beauty,Cash on Delivery,2026-02-09,Shipped
+ORD553,CUS63,P144,2,472.1,Consumer Electronics,Invalid Payment,2025-09-06,Shipped
+ORD554,CUS36,P215,5,234.91,Food & Beverage,Credit and Debit Cards,2025-05-22,Shipped
+ORD555,CUS72,P1,3,134.64,Consumer Electronics,Cryptocurrency,2026-03-27,Cancelled
+ORD556,CUS136,P133,1,-76.44314032424391,Fashion & Accessories,Cryptocurrency,2026-03-18,Shipped
+ORD557,CUS241,P120,5,495.36,Home & Garden,Digital Wallets,2025-11-13,Delivered
+ORD558,CUS46,P40,4,238.62,Fashion & Accessories,Credit and Debit Cards,2026-04-18,Cancelled
+ORD559,CUS199,P198,3,173.8,Health & Beauty,BNPL Services,2025-07-22,Delivered
+ORD560,CUS198,P80,4,303.67,Home & Garden,Cash on Delivery,2025-09-08,Shipped
+ORD561,CUS45,P47,1,159.7,Media & Books,Cryptocurrency,2025-07-28,Delivered
+ORD562,CUS125,P123,4,456.27,Food & Beverage,Credit and Debit Cards,2025-12-22,Delivered
+ORD563,CUS265,P164,5,176.01,Consumer Electronics,Credit and Debit Cards,2025-12-08,Cancelled
+ORD564,CUS140,P260,4,233.2,Food & Beverage,BNPL Services,2025-10-16,In Transit
+ORD565,CUS288,P136,4,36.19,Fashion & Accessories,Bank Transfers,2025-11-09,Delivered
+ORD566,CUS280,P141,3,288.73,Media & Books,Cash on Delivery,2026-02-25,Delivered
+ORD567,CUS124,P161,2,479.64,Fashion & Accessories,BNPL Services,2025-12-18,Cancelled
+ORD568,CUS315,P95,5,359.99,Pet Care & Supplies,Cash on Delivery,2025-04-20,Cancelled
+ORD569,CUS188,P47,5,393.43,Pet Care & Supplies,Digital Wallets,2025-08-17,Cancelled
+ORD570,CUS266,P293,3,53.71,Consumer Electronics,Digital Wallets,2025-08-25,In Transit
+ORD571,CUS395,P133,3,27.39,Fashion & Accessories,Cash on Delivery,2026-01-28,Cancelled
+ORD572,CUS23,P191,1,306.1,Fashion & Accessories,Cryptocurrency,2026-02-11,Shipped
+ORD573,CUS442,P247,1,334.75,Media & Books,Cryptocurrency,2025-12-12,Shipped
+ORD574,CUS165,P10,5,103.08,Food & Beverage,Digital Wallets,2025-08-16,Cancelled
+ORD575,CUS251,P40,4,79.4,Fashion & Accessories,Cash on Delivery,2025-05-14,Cancelled
+ORD576,CUS65,P107,3,135.37,Pet Care & Supplies,Credit and Debit Cards,2026-04-08,Delivered
+ORD577,CUS285,P250,4,45.15,Pet Care & Supplies,Bank Transfers,2025-06-04,Cancelled
+ORD578,CUS490,P199,4,297.71,Consumer Electronics,Cash on Delivery,2026-02-22,Delivered
+ORD579,CUS144,P259,5,298.96,Pet Care & Supplies,BNPL Services,2025-11-26,Cancelled
+ORD580,CUS213,P187,3,235.45,Food & Beverage,Digital Wallets,2025-12-21,Cancelled
+ORD581,CUS42,P136,5,313.83,Health & Beauty,Digital Wallets,2025-08-29,In Transit
+ORD582,CUS481,P85,2,372.78,Pet Care & Supplies,BNPL Services,2025-09-20,Delivered
+ORD583,CUS118,P270,5,173.78,Health & Beauty,Credit and Debit Cards,2025-10-16,Delivered
+ORD584,CUS352,P43,1,252.01,Fashion & Accessories,Cash on Delivery,2025-12-19,In Transit
+ORD585,CUS372,P261,4,358.01,Food & Beverage,BNPL Services,2026-04-03,Cancelled
+ORD586,CUS479,P131,1,69.92,Media & Books,Cash on Delivery,2025-05-15,Cancelled
+ORD587,CUS275,P294,3,325.14,Home & Garden,Cash on Delivery,2026-02-19,Delivered
+ORD588,CUS156,P142,5,121.35,Consumer Electronics,Credit and Debit Cards,2025-09-08,Shipped
+ORD589,CUS443,P44,4,397.64,Pet Care & Supplies,BNPL Services,2025-10-27,In Transit
+ORD590,CUS83,P107,4,227.52,Health & Beauty,BNPL Services,2025-06-05,In Transit
+ORD591,CUS181,P60,4,84.84,Health & Beauty,Bank Transfers,2026-03-03,Cancelled
+ORD592,CUS333,P165,4,131.77,Food & Beverage,Cash on Delivery,2025-11-19,Cancelled
+ORD593,CUS173,P139,1,303.26,Consumer Electronics,Bank Transfers,2025-05-30,Shipped
+ORD594,CUS460,P188,3,78.01,Home & Garden,Cash on Delivery,2025-08-30,Delivered
+ORD595,CUS399,P249,4,68.6,Food & Beverage,BNPL Services,2025-10-24,Delivered
+ORD596,CUS254,P261,5,51.77,Home & Garden,BNPL Services,2025-09-19,Delivered
+ORD597,CUS43,P212,4,428.08,Health & Beauty,Credit and Debit Cards,2026-03-20,Cancelled
+ORD598,CUS61,P196,2,475.26,Pet Care & Supplies,Digital Wallets,2025-09-30,Shipped
+ORD599,CUS220,P38,4,42.79,Health & Beauty,Cash on Delivery,2025-06-29,Delivered
+ORD600,CUS456,P160,4,352.35,Pet Care & Supplies,Bank Transfers,2025-12-10,Cancelled
+ORD601,CUS441,P185,5,53.27,Media & Books,Digital Wallets,2025-12-02,Delivered
+ORD602,CUS328,P232,3,408.99,Food & Beverage,Cryptocurrency,2026-04-17,Delivered
+ORD603,CUS40,P300,1,35.5,Pet Care & Supplies,BNPL Services,2025-08-05,Cancelled
+ORD604,CUS253,P174,1,112.15,Home & Garden,Cash on Delivery,2025-08-16,Cancelled
+ORD605,CUS138,P181,4,393.88,Home & Garden,Cryptocurrency,2025-09-19,In Transit
+ORD606,CUS215,P80,3,313.98,Media & Books,BNPL Services,2026-02-26,Delivered
+ORD607,CUS159,P82,5,185.21,Consumer Electronics,Cash on Delivery,2026-01-27,Cancelled
+ORD608,CUS479,P94,2,134.19,Fashion & Accessories,BNPL Services,2026-02-19,Shipped
+ORD609,CUS67,P181,4,179.14,Pet Care & Supplies,Credit and Debit Cards,2025-11-05,In Transit
+ORD610,CUS380,P98,-2,391.07,Pet Care & Supplies,Digital Wallets,2026-02-28,Delivered
+ORD611,CUS365,P253,1,96.94,Fashion & Accessories,Digital Wallets,2025-11-13,Cancelled
+ORD612,CUS224,P19,5,274.02,Health & Beauty,Bank Transfers,2025-06-02,In Transit
+ORD613,CUS327,P83,3,31.46,Pet Care & Supplies,Digital Wallets,2026-03-02,In Transit
+ORD614,CUS164,P229,4,108.27,Fashion & Accessories,BNPL Services,2026-01-11,Delivered
+ORD615,CUS423,P268,5,66.67,Home & Garden,Cryptocurrency,2025-06-25,Delivered
+ORD616,CUS481,P122,3,120.76,Media & Books,BNPL Services,2026-01-25,Shipped
+ORD617,CUS449,P44,1,489.03,Media & Books,Cryptocurrency,2026-01-04,Shipped
+ORD618,CUS414,P62,5,448.0,Fashion & Accessories,BNPL Services,2025-07-09,Cancelled
+ORD619,CUS302,P232,5,310.94,Media & Books,Bank Transfers,2025-06-08,In Transit
+ORD620,CUS448,P151,5,223.73,Fashion & Accessories,Cash on Delivery,2026-01-01,Shipped
+ORD621,CUS498,P131,1,268.91,Media & Books,BNPL Services,2025-12-04,In Transit
+ORD622,CUS41,P16,3,449.69,Food & Beverage,Cryptocurrency,2025-12-15,Delivered
+ORD623,CUS189,P165,4,358.85,Home & Garden,Digital Wallets,2026-05-19 00:17:24.476912,Cancelled
+ORD624,,P254,4,471.52,Media & Books,Cash on Delivery,2025-04-22,Shipped
+ORD625,CUS81,P214,3,466.92,Consumer Electronics,Cash on Delivery,2025-12-30,Delivered
+ORD626,CUS150,P157,2,72.3,Home & Garden,Invalid Payment,2026-01-24,Shipped
+ORD627,CUS291,P84,3,126.73,Health & Beauty,Cash on Delivery,2025-10-11,Cancelled
+ORD628,CUS7,P197,4,212.17,Media & Books,Credit and Debit Cards,2025-12-08,In Transit
+ORD629,CUS172,P231,4,437.08,Media & Books,BNPL Services,2025-09-19,In Transit
+ORD630,CUS37,P7,4,78.21,Health & Beauty,Digital Wallets,2025-12-16,Shipped
+ORD631,CUS226,P38,5,255.64,Pet Care & Supplies,Cryptocurrency,2025-04-24,Shipped
+ORD632,CUS113,P209,5,293.83,Pet Care & Supplies,Cryptocurrency,2026-04-09,Delivered
+ORD633,CUS226,P264,3,441.53,Consumer Electronics,Cryptocurrency,2025-09-06,Cancelled
+ORD634,CUS477,P115,4,399.06,Media & Books,Bank Transfers,2026-04-03,Shipped
+ORD635,CUS152,P111,5,74.55,Pet Care & Supplies,Cash on Delivery,2026-03-25,Shipped
+ORD636,CUS341,P98,3,110.82,Food & Beverage,Bank Transfers,2025-06-24,In Transit
+ORD637,CUS104,P122,4,207.05,Media & Books,Credit and Debit Cards,2025-07-04,Shipped
+ORD638,CUS376,P245,5,97.1,Consumer Electronics,Bank Transfers,2025-09-01,In Transit
+ORD639,CUS16,P278,1,24.06,Media & Books,Cryptocurrency,2026-01-03,Delivered
+ORD640,CUS269,P110,2,148.68,Food & Beverage,BNPL Services,2025-12-29,Shipped
+ORD641,CUS486,P205,3,119.77,Food & Beverage,BNPL Services,2025-06-12,In Transit
+ORD642,CUS460,P232,3,334.91,Pet Care & Supplies,Cash on Delivery,2025-10-18,Delivered
+ORD643,CUS455,P276,2,255.28,Media & Books,Cash on Delivery,2025-11-03,In Transit
+ORD644,CUS317,P110,2,120.85,Home & Garden,Digital Wallets,2025-11-13,Delivered
+ORD645,CUS261,P141,1,46.56,Food & Beverage,Digital Wallets,2026-02-26,Shipped
+ORD646,CUS140,P152,5,321.77,Food & Beverage,Cash on Delivery,2025-11-14,Delivered
+ORD647,CUS297,P107,4,76.38,Consumer Electronics,Credit and Debit Cards,2025-04-30,Shipped
+ORD648,CUS353,P233,4,249.69,Fashion & Accessories,Cryptocurrency,2025-12-04,Shipped
+ORD649,CUS21,P155,2,194.55,Pet Care & Supplies,Digital Wallets,2025-10-02,Cancelled
+ORD650,CUS272,P73,1,207.02,Fashion & Accessories,Invalid Payment,2025-08-30,In Transit
+ORD651,CUS63,P129,3,132.13,Food & Beverage,Digital Wallets,2026-04-11,Cancelled
+ORD652,CUS188,P96,4,65.99,Pet Care & Supplies,Cash on Delivery,2025-10-05,In Transit
+ORD653,CUS7,P117,4,294.89,Fashion & Accessories,Digital Wallets,2025-06-16,Delivered
+ORD654,CUS336,P53,1,319.99,Food & Beverage,Cryptocurrency,2025-06-03,Cancelled
+ORD655,CUS424,P145,2,475.88,Fashion & Accessories,Cash on Delivery,2026-01-19,Cancelled
+ORD656,CUS188,P211,5,471.92,Consumer Electronics,BNPL Services,2025-07-12,Cancelled
+ORD657,CUS299,P167,3,484.81,Media & Books,Cash on Delivery,2025-10-18,In Transit
+ORD658,CUS247,P186,1,194.64,Pet Care & Supplies,Cryptocurrency,2025-07-08,Cancelled
+ORD659,CUS196,P250,2,61.9,Consumer Electronics,Credit and Debit Cards,2025-11-08,Cancelled
+ORD660,CUS304,P243,3,253.05,Consumer Electronics,Credit and Debit Cards,2026-01-22,Delivered
+ORD661,CUS113,P58,2,430.64,Health & Beauty,Bank Transfers,2025-09-16,Delivered
+ORD662,CUS391,P240,3,318.26,Consumer Electronics,Cash on Delivery,2025-11-21,Cancelled
+ORD663,CUS483,P32,1,104.43,Consumer Electronics,Cryptocurrency,2025-05-31,Shipped
+ORD664,CUS186,P72,2,384.4,Media & Books,Digital Wallets,2025-07-24,Delivered
+ORD665,CUS429,P216,3,282.33,Consumer Electronics,Credit and Debit Cards,2025-06-03,Shipped
+ORD666,CUS316,P135,5,230.84,Health & Beauty,BNPL Services,2026-01-25,Delivered
+ORD667,CUS150,P218,2,157.45,Food & Beverage,Cryptocurrency,2025-08-14,In Transit
+ORD668,CUS363,P115,1,328.6,Food & Beverage,Cryptocurrency,2025-10-16,Shipped
+ORD669,CUS376,P211,3,415.48,Consumer Electronics,Cash on Delivery,2025-11-14,In Transit
+ORD670,CUS94,P274,4,430.11,Fashion & Accessories,Digital Wallets,2026-02-19,Delivered
+ORD671,CUS312,P6,1,411.06,Consumer Electronics,Credit and Debit Cards,2026-02-22,Shipped
+ORD672,CUS435,P49,4,37.79,Food & Beverage,Credit and Debit Cards,2025-08-29,Shipped
+ORD673,CUS192,P300,1,95.56,Consumer Electronics,Cryptocurrency,2026-01-20,In Transit
+ORD674,CUS267,P295,5,57.49,Home & Garden,Credit and Debit Cards,2025-12-11,Shipped
+ORD675,CUS165,P135,5,-45.83827901157004,Home & Garden,Cryptocurrency,2026-01-15,Shipped
+ORD676,CUS91,P170,4,467.84,Food & Beverage,Digital Wallets,2025-12-24,Delivered
+ORD677,CUS358,P189,5,393.16,Food & Beverage,Cash on Delivery,2026-03-29,Delivered
+ORD678,CUS68,P8,1,432.14,Consumer Electronics,Credit and Debit Cards,2025-05-25,Delivered
+ORD679,CUS353,P11,1,187.01,Consumer Electronics,Bank Transfers,2025-11-12,Shipped
+ORD680,CUS113,P264,1,430.75,Consumer Electronics,BNPL Services,2025-10-14,Cancelled
+ORD681,CUS19,P281,1,151.28,Food & Beverage,Digital Wallets,2026-01-31,Delivered
+ORD682,CUS61,P286,5,189.92,Pet Care & Supplies,Cash on Delivery,2025-12-13,In Transit
+ORD683,CUS413,P100,1,421.75,Pet Care & Supplies,Cash on Delivery,2026-02-01,Delivered
+ORD684,CUS188,P254,2,383.01,Home & Garden,Digital Wallets,2025-05-21,Delivered
+ORD685,CUS25,P141,3,372.31,Health & Beauty,Credit and Debit Cards,2025-06-11,In Transit
+ORD686,CUS216,P266,2,361.29,Health & Beauty,Cryptocurrency,2025-06-21,Shipped
+ORD687,CUS449,P116,4,223.84,Fashion & Accessories,BNPL Services,2026-01-25,Cancelled
+ORD688,CUS150,P279,1,33.91,Media & Books,Cash on Delivery,2026-01-31,Cancelled
+ORD689,CUS349,P137,4,164.9,Consumer Electronics,Bank Transfers,2026-01-05,Cancelled
+ORD690,CUS161,P125,1,75.45,Media & Books,Cash on Delivery,2025-12-20,Cancelled
+ORD691,CUS476,P228,4,369.84,Home & Garden,Cryptocurrency,2025-12-22,Cancelled
+ORD692,CUS149,P148,3,479.79,Media & Books,Bank Transfers,2025-12-29,Cancelled
+ORD693,CUS366,P110,5,-70.7661060751675,Consumer Electronics,Digital Wallets,2025-07-14,Delivered
+ORD694,CUS281,P212,4,445.33,Home & Garden,Cash on Delivery,2025-08-11,Shipped
+ORD695,CUS261,P46,3,79.46,Consumer Electronics,Cash on Delivery,2026-02-15,Cancelled
+ORD696,CUS459,P118,4,275.05,Fashion & Accessories,Cryptocurrency,2025-05-15,In Transit
+ORD697,CUS151,P44,2,39.43,Home & Garden,Credit and Debit Cards,2025-05-17,Cancelled
+ORD698,CUS477,P249,5,271.65,Fashion & Accessories,Cryptocurrency,2026-01-22,Shipped
+ORD699,CUS89,P39,1,331.64,Pet Care & Supplies,Credit and Debit Cards,2025-12-07,In Transit
+ORD700,CUS129,P280,2,366.74,Home & Garden,Cryptocurrency,2025-12-03,Shipped
+ORD701,CUS159,P139,1,494.68,Media & Books,Credit and Debit Cards,2026-01-04,In Transit
+ORD702,CUS318,P58,1,495.54,Home & Garden,Credit and Debit Cards,2026-02-14,In Transit
+ORD703,CUS396,P93,3,241.49,Consumer Electronics,Cash on Delivery,2025-07-31,Cancelled
+ORD704,CUS203,P239,4,383.49,Fashion & Accessories,Cryptocurrency,2026-04-06,In Transit
+ORD705,CUS208,P217,5,77.06,Media & Books,Digital Wallets,2025-08-20,In Transit
+ORD706,CUS441,P6,5,483.55,Food & Beverage,Credit and Debit Cards,2025-06-24,Cancelled
+ORD707,CUS382,P209,2,479.59,Pet Care & Supplies,Credit and Debit Cards,2025-09-28,In Transit
+ORD708,CUS55,P289,5,478.63,Media & Books,Cash on Delivery,2025-07-25,In Transit
+ORD709,CUS22,P229,1,107.55,Consumer Electronics,Cryptocurrency,2026-01-29,Shipped
+ORD710,CUS214,P133,5,332.2,Pet Care & Supplies,Invalid Payment,2026-03-31,Shipped
+ORD711,CUS445,P257,5,228.04,Pet Care & Supplies,Bank Transfers,2025-06-07,Delivered
+ORD712,CUS35,P299,4,150.93,Health & Beauty,Digital Wallets,2026-01-07,Delivered
+ORD713,CUS341,P26,4,156.58,Pet Care & Supplies,Cash on Delivery,2025-09-30,Shipped
+ORD714,CUS467,P52,2,347.34,Media & Books,Cryptocurrency,2025-09-02,Shipped
+ORD715,CUS338,P154,1,107.86,Food & Beverage,Digital Wallets,2026-02-18,Shipped
+ORD716,CUS331,P56,4,244.35,Consumer Electronics,Cash on Delivery,2025-06-13,Cancelled
+ORD717,CUS331,P70,3,496.05,Health & Beauty,Cash on Delivery,2025-09-17,In Transit
+ORD718,CUS410,P182,4,40.92,Consumer Electronics,Digital Wallets,2025-05-27,Delivered
+ORD719,CUS250,P119,4,422.1,Home & Garden,Digital Wallets,2025-07-15,Shipped
+ORD720,CUS99,P147,1,360.93,Fashion & Accessories,Credit and Debit Cards,2026-01-16,Shipped
+ORD721,CUS365,P114,1,284.89,Fashion & Accessories,BNPL Services,2025-11-04,Shipped
+ORD722,CUS194,P128,3,271.16,Media & Books,BNPL Services,2026-03-09,Cancelled
+ORD723,CUS191,P67,5,427.2,Fashion & Accessories,Digital Wallets,2025-12-18,Delivered
+ORD724,CUS246,P289,5,296.84,Media & Books,Invalid Payment,2025-09-17,Cancelled
+ORD725,CUS193,P280,3,297.03,Health & Beauty,Cryptocurrency,2025-11-30,In Transit
+ORD726,CUS20,P231,5,92.45,Media & Books,Cryptocurrency,2025-12-01,Shipped
+ORD727,CUS251,P45,4,199.78,Health & Beauty,Cash on Delivery,2025-06-19,Cancelled
+ORD728,CUS156,P45,2,243.89,Pet Care & Supplies,Bank Transfers,2025-10-12,Shipped
+ORD729,CUS398,P291,4,232.39,Home & Garden,Bank Transfers,2025-12-25,Cancelled
+ORD730,CUS210,P180,4,-39.86017854224242,Fashion & Accessories,Cryptocurrency,2026-03-07,Cancelled
+ORD731,CUS443,P298,2,72.65,Consumer Electronics,Bank Transfers,2025-05-11,Delivered
+ORD732,CUS198,P202,2,194.26,Media & Books,Digital Wallets,2025-09-20,In Transit
+ORD733,CUS347,P235,3,401.02,Home & Garden,Bank Transfers,2026-04-12,In Transit
+ORD734,CUS357,P214,3,95.98,Health & Beauty,Credit and Debit Cards,2025-10-24,Cancelled
+ORD735,CUS465,P19,4,485.5,Media & Books,Cryptocurrency,2026-04-07,Shipped
+ORD736,CUS323,P282,5,95.49,Health & Beauty,Digital Wallets,2025-06-15,Delivered
+ORD737,CUS252,P196,5,269.16,Media & Books,Digital Wallets,2026-03-21,In Transit
+ORD738,CUS319,P284,4,85.55,Home & Garden,Bank Transfers,2025-08-11,Cancelled
+ORD739,CUS34,P43,1,117.94,Consumer Electronics,Cryptocurrency,2025-08-14,Shipped
+ORD740,CUS29,P78,3,100.09,Fashion & Accessories,Digital Wallets,2025-09-09,In Transit
+ORD741,CUS171,P24,2,418.27,Pet Care & Supplies,Credit and Debit Cards,2025-08-22,Shipped
+ORD742,CUS218,P186,2,416.51,Food & Beverage,Cash on Delivery,2025-08-13,Shipped
+ORD743,CUS275,P143,5,104.13,Health & Beauty,Credit and Debit Cards,2026-02-19,In Transit
+ORD744,CUS136,P265,3,481.96,Consumer Electronics,Cash on Delivery,2025-07-03,In Transit
+ORD745,CUS378,P190,4,145.97,Food & Beverage,Bank Transfers,2025-12-29,Cancelled
+ORD746,CUS405,P73,4,389.17,Pet Care & Supplies,Cash on Delivery,2026-03-29,In Transit
+ORD747,CUS326,P172,5,99.02,Consumer Electronics,Cash on Delivery,2026-04-14,In Transit
+ORD748,CUS334,P3,2,313.42,Home & Garden,Credit and Debit Cards,2025-09-12,In Transit
+ORD749,CUS255,P138,4,155.83,Pet Care & Supplies,BNPL Services,2025-09-23,Cancelled
+ORD750,CUS301,P113,4,299.94,Consumer Electronics,Cryptocurrency,2026-02-11,Delivered
+ORD751,CUS139,P228,1,398.56,Consumer Electronics,Digital Wallets,2025-12-29,Delivered
+ORD752,CUS487,P231,3,395.67,Health & Beauty,Digital Wallets,2025-11-08,Shipped
+ORD753,CUS424,P264,4,389.04,Fashion & Accessories,Cash on Delivery,2025-04-22,In Transit
+ORD754,CUS467,P34,1,265.15,Health & Beauty,Cryptocurrency,2025-04-18,Cancelled
+ORD755,CUS154,P63,4,292.52,Pet Care & Supplies,Cryptocurrency,2025-09-06,Cancelled
+ORD756,CUS147,P107,4,333.96,Pet Care & Supplies,Cryptocurrency,2025-12-21,Cancelled
+ORD757,CUS202,P277,3,495.38,Consumer Electronics,Digital Wallets,2025-07-26,Delivered
+ORD758,CUS78,P245,2,213.37,Health & Beauty,Cash on Delivery,2025-10-23,In Transit
+ORD759,CUS483,P239,2,454.73,Health & Beauty,BNPL Services,2025-10-25,Cancelled
+ORD760,CUS141,P27,5,71.13,Food & Beverage,Credit and Debit Cards,2025-09-04,Delivered
+ORD761,CUS126,P89,3,420.44,Pet Care & Supplies,Cash on Delivery,2025-05-17,Delivered
+ORD762,CUS358,P55,3,185.6,Health & Beauty,Cryptocurrency,2025-06-26,Shipped
+ORD763,CUS99,P53,5,380.33,Food & Beverage,Bank Transfers,2026-01-07,Shipped
+ORD764,CUS461,P78,5,410.17,Media & Books,BNPL Services,2025-05-06,Delivered
+ORD765,CUS135,P189,3,36.05,Food & Beverage,Credit and Debit Cards,2026-01-30,Delivered
+ORD766,,P229,4,472.23,Health & Beauty,BNPL Services,2026-01-13,In Transit
+ORD767,CUS157,P252,3,278.47,Consumer Electronics,Credit and Debit Cards,2026-01-26,Delivered
+ORD768,CUS91,P98,5,306.43,Food & Beverage,Digital Wallets,2025-12-18,Shipped
+ORD769,CUS248,P18,5,171.11,Food & Beverage,BNPL Services,2025-12-06,Shipped
+ORD770,CUS20,P45,4,54.42,Media & Books,Bank Transfers,2026-02-14,Cancelled
+ORD771,CUS259,P114,4,464.36,Pet Care & Supplies,Credit and Debit Cards,2025-05-29,Delivered
+ORD772,CUS357,P191,1,114.9,Home & Garden,Cash on Delivery,2025-12-17,Delivered
+ORD773,CUS364,P142,4,90.33,Home & Garden,Bank Transfers,2025-07-12,In Transit
+ORD774,CUS479,P211,5,73.66,Home & Garden,BNPL Services,2025-06-10,In Transit
+ORD775,CUS135,P114,4,125.19,Media & Books,Digital Wallets,2025-10-25,In Transit
+ORD776,CUS31,P6,4,24.78,Media & Books,Cryptocurrency,2025-07-05,Delivered
+ORD777,CUS422,P89,2,94.25,Health & Beauty,Cash on Delivery,2026-01-22,In Transit
+ORD778,CUS310,P130,-4,335.53,Food & Beverage,Digital Wallets,2025-07-07,Delivered
+ORD779,CUS180,P197,1,493.18,Food & Beverage,BNPL Services,2025-11-27,In Transit
+ORD780,,P135,1,306.13,Home & Garden,Digital Wallets,2026-03-23,Shipped
+ORD781,CUS85,P6,4,238.82,Consumer Electronics,Credit and Debit Cards,2025-06-08,Delivered
+ORD782,CUS319,P21,4,398.53,Home & Garden,BNPL Services,2025-11-22,Delivered
+ORD783,CUS136,P70,1,459.63,Fashion & Accessories,Bank Transfers,2025-11-17,Cancelled
+ORD784,CUS494,P157,4,292.32,Pet Care & Supplies,Bank Transfers,2026-02-02,Shipped
+ORD785,CUS130,P188,4,108.84,Pet Care & Supplies,Bank Transfers,2025-11-10,Delivered
+ORD786,CUS284,P60,3,75.43,Fashion & Accessories,Cryptocurrency,2025-12-28,Delivered
+ORD787,CUS417,P93,2,73.74,Consumer Electronics,BNPL Services,2025-11-19,Delivered
+ORD788,CUS466,P141,1,271.3,Home & Garden,Credit and Debit Cards,2025-05-17,Cancelled
+ORD789,CUS350,P1,3,259.46,Home & Garden,Cryptocurrency,2025-07-30,In Transit
+ORD790,CUS27,P230,1,265.59,Fashion & Accessories,Cash on Delivery,2025-06-15,Shipped
+ORD791,CUS291,P262,5,178.21,Fashion & Accessories,Credit and Debit Cards,2026-02-08,Shipped
+ORD792,CUS35,P121,1,153.77,Home & Garden,Credit and Debit Cards,2025-08-26,In Transit
+ORD793,CUS370,P197,5,198.62,Consumer Electronics,Cryptocurrency,2025-10-23,Cancelled
+ORD794,CUS333,P46,2,138.34,Pet Care & Supplies,BNPL Services,2026-01-24,Shipped
+ORD795,CUS365,P265,5,259.75,Media & Books,Digital Wallets,2025-04-25,Cancelled
+ORD796,CUS252,P52,3,370.59,Food & Beverage,Bank Transfers,2025-06-09,Shipped
+ORD797,CUS403,P95,3,238.51,Food & Beverage,Cryptocurrency,2025-10-30,In Transit
+ORD798,CUS34,P240,1,202.66,Food & Beverage,Digital Wallets,2025-12-16,Shipped
+ORD799,CUS465,P26,1,111.5,Media & Books,Bank Transfers,2025-12-14,Shipped
+ORD800,CUS129,P196,4,37.77,Health & Beauty,Bank Transfers,2025-06-28,Shipped
+ORD801,CUS65,P180,3,-24.596795613545908,Media & Books,BNPL Services,2026-04-06,In Transit
+ORD802,CUS444,P292,3,482.73,Media & Books,Cash on Delivery,2025-07-11,In Transit
+ORD803,CUS47,P58,1,15.99,Food & Beverage,Digital Wallets,2025-09-26,Shipped
+ORD804,CUS110,P34,3,252.77,Fashion & Accessories,BNPL Services,2025-05-01,In Transit
+ORD805,CUS329,P146,1,54.89,Media & Books,Credit and Debit Cards,2026-02-09,Delivered
+ORD806,CUS235,P64,2,482.98,Health & Beauty,Digital Wallets,2026-03-29,Shipped
+ORD807,CUS238,P196,2,197.93,Media & Books,Invalid Payment,2026-03-21,Shipped
+ORD808,CUS45,P175,1,406.01,Consumer Electronics,Cash on Delivery,2026-03-03,Cancelled
+ORD809,CUS151,P181,1,115.58,Health & Beauty,Cash on Delivery,2025-09-05,Shipped
+ORD810,CUS394,P276,1,438.77,Health & Beauty,Bank Transfers,2025-09-08,In Transit
+ORD811,CUS273,P65,2,292.27,Consumer Electronics,Digital Wallets,2026-01-07,Cancelled
+ORD812,CUS404,P120,5,319.48,Health & Beauty,Cryptocurrency,2026-02-05,Cancelled
+ORD813,CUS83,P290,5,396.57,Consumer Electronics,Credit and Debit Cards,2025-06-16,Shipped
+ORD814,CUS125,P121,5,322.48,Consumer Electronics,BNPL Services,2026-01-25,Delivered
+ORD815,CUS404,P5,3,320.93,Consumer Electronics,BNPL Services,2026-02-11,Cancelled
+ORD816,CUS180,P64,3,402.65,Consumer Electronics,BNPL Services,2026-02-01,Delivered
+ORD817,CUS254,P259,3,446.28,Consumer Electronics,Digital Wallets,2025-06-01,Shipped
+ORD818,CUS206,P164,1,60.41,Food & Beverage,Credit and Debit Cards,2025-05-24,In Transit
+ORD819,CUS113,P16,2,260.36,Food & Beverage,Digital Wallets,2025-12-16,Shipped
+ORD820,CUS101,P164,4,416.58,Pet Care & Supplies,Bank Transfers,2025-10-16,Shipped
+ORD821,CUS48,P165,2,151.78,Home & Garden,BNPL Services,2026-04-18,Shipped
+ORD822,CUS41,P29,3,316.38,Home & Garden,BNPL Services,2026-02-27,Shipped
+ORD823,CUS492,P56,2,45.16,Media & Books,Cash on Delivery,2025-05-14,Cancelled
+ORD824,CUS227,P70,3,229.74,Food & Beverage,Digital Wallets,2025-07-15,In Transit
+ORD825,CUS145,P235,4,188.53,Consumer Electronics,Digital Wallets,2025-07-30,Cancelled
+ORD826,CUS73,P260,1,377.9,Media & Books,Digital Wallets,2025-04-23,Cancelled
+ORD827,CUS141,P293,4,172.89,Pet Care & Supplies,Credit and Debit Cards,2026-03-05,Cancelled
+ORD828,CUS307,P192,2,75.05,Consumer Electronics,Cash on Delivery,2025-10-30,Delivered
+ORD829,CUS181,P95,4,409.87,Home & Garden,Credit and Debit Cards,2025-10-06,Cancelled
+ORD830,CUS494,P223,3,266.66,Consumer Electronics,Cryptocurrency,2025-11-04,Shipped
+ORD831,CUS430,P181,1,297.93,Food & Beverage,BNPL Services,2025-07-13,Cancelled
+ORD832,CUS393,P274,4,418.4,Food & Beverage,Digital Wallets,2026-02-09,Cancelled
+ORD833,CUS367,P200,3,442.81,Health & Beauty,Credit and Debit Cards,2025-06-23,Shipped
+ORD834,CUS224,P232,1,287.46,Pet Care & Supplies,Digital Wallets,2026-01-17,Shipped
+ORD835,CUS208,P92,4,434.34,Health & Beauty,Credit and Debit Cards,2026-04-11,In Transit
+ORD836,CUS140,P49,5,98.57,Home & Garden,Bank Transfers,2025-04-24,In Transit
+ORD837,CUS486,P286,5,68.14,Media & Books,Credit and Debit Cards,2025-12-06,Delivered
+ORD838,CUS97,P26,4,377.77,Media & Books,Bank Transfers,2026-01-24,Shipped
+ORD839,CUS107,P244,5,54.75,Media & Books,Bank Transfers,2026-02-19,Shipped
+ORD840,CUS37,P111,4,362.72,Home & Garden,Cryptocurrency,2025-09-09,In Transit
+ORD841,CUS77,P61,3,199.71,Health & Beauty,Digital Wallets,2026-02-09,Shipped
+ORD842,CUS4,P263,4,163.67,Health & Beauty,Digital Wallets,2025-06-20,Shipped
+ORD843,CUS362,P192,4,404.45,Pet Care & Supplies,Cryptocurrency,2025-09-06,Shipped
+ORD844,CUS97,P260,5,351.2,Health & Beauty,BNPL Services,2025-05-08,In Transit
+ORD845,CUS21,P179,4,137.12,Home & Garden,Credit and Debit Cards,2026-03-16,Cancelled
+ORD846,CUS315,P256,1,313.52,Pet Care & Supplies,Cash on Delivery,2025-05-16,Shipped
+ORD847,CUS190,P181,4,-82.7386880706814,Food & Beverage,BNPL Services,2025-06-25,Delivered
+ORD848,CUS319,P259,3,51.81,Media & Books,Digital Wallets,2025-08-22,Cancelled
+ORD849,CUS214,P272,1,221.57,Pet Care & Supplies,Cryptocurrency,2025-04-23,In Transit
+ORD850,CUS390,P134,1,230.41,Home & Garden,Digital Wallets,2025-05-06,Shipped
+ORD851,CUS374,P106,5,232.13,Food & Beverage,BNPL Services,2025-08-18,Cancelled
+ORD852,CUS197,P59,5,470.0,Consumer Electronics,Digital Wallets,2025-04-21,Cancelled
+ORD853,CUS45,P155,5,345.68,Home & Garden,Cryptocurrency,2025-09-19,Cancelled
+ORD854,CUS378,P210,1,218.42,Consumer Electronics,Bank Transfers,2025-11-01,In Transit
+ORD855,CUS288,P196,5,292.89,Home & Garden,BNPL Services,2025-08-07,Delivered
+ORD856,CUS301,P245,1,249.23,Pet Care & Supplies,Cryptocurrency,2025-05-27,In Transit
+ORD857,CUS127,P293,2,29.7,Health & Beauty,Cash on Delivery,2026-04-11,Shipped
+ORD858,CUS431,P260,4,253.59,Food & Beverage,Cash on Delivery,2025-08-06,In Transit
+ORD859,CUS129,P30,4,18.62,Home & Garden,Bank Transfers,2026-03-26,Cancelled
+ORD860,CUS114,P49,2,119.95,Consumer Electronics,Credit and Debit Cards,2026-03-22,Cancelled
+ORD861,CUS381,P43,4,477.29,Media & Books,BNPL Services,2026-02-27,Cancelled
+ORD862,,P23,1,23.06,Media & Books,Digital Wallets,2025-06-18,In Transit
+ORD863,CUS320,P55,3,17.94,Home & Garden,Digital Wallets,2025-12-28,Cancelled
+ORD864,CUS128,P30,2,129.32,Fashion & Accessories,Credit and Debit Cards,2025-09-07,Delivered
+ORD865,CUS419,P169,3,183.77,Home & Garden,Bank Transfers,2026-02-06,In Transit
+ORD866,CUS51,P246,3,143.21,Consumer Electronics,Cash on Delivery,2025-09-25,Delivered
+ORD867,CUS383,P255,4,465.75,Media & Books,Bank Transfers,2025-09-23,Shipped
+ORD868,CUS381,P14,2,113.68,Food & Beverage,Cash on Delivery,2025-11-16,Cancelled
+ORD869,CUS71,P47,5,381.52,Health & Beauty,Bank Transfers,2025-08-10,Cancelled
+ORD870,CUS34,P75,5,208.73,Fashion & Accessories,Cryptocurrency,2025-06-27,Cancelled
+ORD871,CUS83,P82,5,85.1,Fashion & Accessories,Cash on Delivery,2025-10-30,Cancelled
+ORD872,CUS242,P242,5,-55.687205279236665,Fashion & Accessories,Bank Transfers,2026-02-16,Delivered
+ORD873,CUS21,P122,5,288.25,Home & Garden,Cryptocurrency,2025-09-19,In Transit
+ORD874,CUS40,P243,5,205.12,Health & Beauty,Cash on Delivery,2026-01-26,In Transit
+ORD875,CUS204,P287,2,335.44,Consumer Electronics,Credit and Debit Cards,2026-03-28,Shipped
+ORD876,CUS148,P138,5,-86.9020510185502,Home & Garden,Cryptocurrency,2025-08-13,In Transit
+ORD877,CUS60,P269,2,157.6,Home & Garden,Cryptocurrency,2025-07-26,Shipped
+ORD878,CUS442,P89,2,293.0,Food & Beverage,Credit and Debit Cards,2025-11-22,Cancelled
+ORD879,CUS477,P155,2,470.04,Consumer Electronics,BNPL Services,2025-04-23,Shipped
+ORD880,CUS161,P192,1,397.1,Fashion & Accessories,Cryptocurrency,2025-10-03,Shipped
+ORD881,CUS200,P119,5,460.17,Fashion & Accessories,Credit and Debit Cards,2025-10-21,Shipped
+ORD882,CUS82,P72,1,208.9,Media & Books,Cash on Delivery,2025-09-05,Delivered
+ORD883,CUS450,P97,3,270.57,Pet Care & Supplies,BNPL Services,2025-06-20,Delivered
+ORD884,CUS308,P125,5,122.05,Food & Beverage,Digital Wallets,2025-07-21,Shipped
+ORD885,CUS96,P257,1,12.17,Fashion & Accessories,BNPL Services,2026-03-11,Shipped
+ORD886,CUS61,P137,3,492.42,Food & Beverage,Bank Transfers,2026-02-12,Delivered
+ORD887,CUS374,P72,4,470.44,Consumer Electronics,Digital Wallets,2025-07-03,Delivered
+ORD888,CUS430,P73,5,127.01,Consumer Electronics,Cryptocurrency,2026-02-05,Shipped
+ORD889,CUS49,P173,3,323.21,Health & Beauty,Cryptocurrency,2026-04-16,Shipped
+ORD890,CUS218,P263,3,480.07,Home & Garden,Cryptocurrency,2026-02-17,In Transit
+ORD891,CUS381,P30,5,493.76,Pet Care & Supplies,Credit and Debit Cards,2026-02-17,In Transit
+ORD892,CUS150,P245,3,454.88,Health & Beauty,BNPL Services,2025-10-23,Delivered
+ORD893,CUS238,P143,3,209.62,Media & Books,Bank Transfers,2026-02-27,In Transit
+ORD894,,P3,4,253.78,Fashion & Accessories,Credit and Debit Cards,2025-10-07,In Transit
+ORD895,CUS336,P203,3,445.05,Media & Books,BNPL Services,2025-05-11,Shipped
+ORD896,CUS365,P196,2,101.62,Health & Beauty,BNPL Services,2025-05-12,Shipped
+ORD897,CUS237,P28,5,193.12,Home & Garden,Bank Transfers,2025-11-22,In Transit
+ORD898,CUS143,P28,4,392.26,Pet Care & Supplies,Cash on Delivery,2025-09-25,Shipped
+ORD899,CUS258,P171,2,222.88,Home & Garden,Cash on Delivery,2025-12-02,Shipped
+ORD900,CUS336,P155,2,133.05,Pet Care & Supplies,Digital Wallets,2025-05-25,In Transit
+ORD901,CUS123,P283,3,462.55,Health & Beauty,Digital Wallets,2026-05-19 00:17:24.476983,Delivered
+ORD902,CUS318,P71,2,93.12,Home & Garden,BNPL Services,2025-06-11,Delivered
+ORD903,CUS255,P138,5,421.94,Home & Garden,Digital Wallets,2025-05-19,Delivered
+ORD904,CUS293,P277,-3,458.33,Home & Garden,BNPL Services,2025-05-28,Delivered
+ORD905,CUS301,P103,5,64.1,Pet Care & Supplies,BNPL Services,2026-01-04,Shipped
+ORD906,CUS231,P115,2,320.63,Health & Beauty,Cash on Delivery,2025-06-21,Shipped
+ORD907,CUS75,P300,1,158.5,Fashion & Accessories,Cryptocurrency,2025-05-04,Shipped
+ORD908,CUS93,P3,5,248.11,Food & Beverage,Bank Transfers,2026-02-06,In Transit
+ORD909,CUS468,P298,5,131.91,Food & Beverage,Cryptocurrency,2026-03-06,Delivered
+ORD910,CUS401,P75,5,60.13,Consumer Electronics,Credit and Debit Cards,2025-09-27,Shipped
+ORD911,CUS358,P60,3,307.88,Consumer Electronics,Cryptocurrency,2025-11-27,Shipped
+ORD912,CUS413,P10,-2,240.42,Media & Books,Bank Transfers,2025-04-20,Cancelled
+ORD913,CUS470,P297,4,249.1,Home & Garden,Cash on Delivery,2025-11-14,Delivered
+ORD914,CUS239,P37,2,348.11,Home & Garden,Digital Wallets,2025-08-16,Delivered
+ORD915,CUS73,P31,1,82.82,Media & Books,Credit and Debit Cards,2025-05-16,Cancelled
+ORD916,CUS299,P100,4,225.14,Food & Beverage,BNPL Services,2026-04-03,Delivered
+ORD917,CUS39,P28,2,318.66,Food & Beverage,Digital Wallets,2025-08-21,Delivered
+ORD918,CUS270,P180,1,410.88,Fashion & Accessories,Cryptocurrency,2025-04-24,In Transit
+ORD919,CUS2,P23,1,39.81,Home & Garden,Bank Transfers,2025-08-13,Delivered
+ORD920,CUS52,P291,2,62.87,Media & Books,Credit and Debit Cards,2025-08-04,Cancelled
+ORD921,CUS63,P173,3,216.09,Health & Beauty,Cryptocurrency,2026-03-09,In Transit
+ORD922,CUS193,P81,4,402.14,Consumer Electronics,Credit and Debit Cards,2025-07-27,Shipped
+ORD923,CUS326,P94,4,265.14,Pet Care & Supplies,Cash on Delivery,2025-05-07,Shipped
+ORD924,CUS34,P113,5,321.74,Fashion & Accessories,Credit and Debit Cards,2025-05-02,Shipped
+ORD925,CUS305,P160,1,450.87,Pet Care & Supplies,Bank Transfers,2026-04-11,Shipped
+ORD926,CUS236,P224,2,269.7,Fashion & Accessories,Bank Transfers,2026-03-24,Cancelled
+ORD927,CUS386,P17,3,449.03,Media & Books,Cash on Delivery,2025-06-03,In Transit
+ORD928,,P54,4,416.06,Health & Beauty,Credit and Debit Cards,2025-12-27,In Transit
+ORD929,CUS121,P282,2,250.76,Home & Garden,BNPL Services,2025-11-22,Cancelled
+ORD930,CUS272,P37,4,232.72,Health & Beauty,Cash on Delivery,2025-08-02,Cancelled
+ORD931,CUS427,P68,3,370.64,Consumer Electronics,Bank Transfers,2025-07-21,Delivered
+ORD932,CUS67,P133,1,210.3,Media & Books,Cryptocurrency,2026-01-29,Shipped
+ORD933,CUS436,P14,2,377.11,Home & Garden,Digital Wallets,2025-06-15,Shipped
+ORD934,CUS463,P148,2,309.19,Food & Beverage,Cryptocurrency,2026-03-31,Shipped
+ORD935,CUS387,P280,3,16.89,Fashion & Accessories,Cryptocurrency,2026-03-23,Cancelled
+ORD936,CUS99,P151,2,164.06,Media & Books,Cash on Delivery,2025-09-08,Shipped
+ORD937,CUS248,P124,1,444.39,Food & Beverage,Cash on Delivery,2025-12-18,In Transit
+ORD938,CUS151,P189,1,358.64,Media & Books,BNPL Services,2026-01-19,In Transit
+ORD939,CUS410,P278,5,77.61,Consumer Electronics,Digital Wallets,2025-11-29,In Transit
+ORD940,CUS287,P276,2,82.27,Pet Care & Supplies,Cash on Delivery,2025-08-25,Shipped
+ORD941,CUS135,P290,3,187.43,Fashion & Accessories,Bank Transfers,2026-04-16,In Transit
+ORD942,CUS370,P47,2,203.38,Pet Care & Supplies,Digital Wallets,2025-10-03,In Transit
+ORD943,CUS482,P20,5,406.45,Media & Books,Digital Wallets,2025-09-28,In Transit
+ORD944,CUS325,P113,4,43.79,Fashion & Accessories,Credit and Debit Cards,2025-08-16,Cancelled
+ORD945,CUS144,P122,4,94.13,Consumer Electronics,Digital Wallets,2026-03-16,Shipped
+ORD946,CUS118,P113,3,334.26,Home & Garden,Cash on Delivery,2025-08-18,Cancelled
+ORD947,CUS476,P103,1,387.61,Media & Books,BNPL Services,2025-05-12,Cancelled
+ORD948,CUS23,P226,3,418.65,Food & Beverage,Cryptocurrency,2026-04-13,Delivered
+ORD949,CUS363,P289,1,346.2,Pet Care & Supplies,BNPL Services,2025-08-01,Shipped
+ORD950,CUS249,P106,5,181.86,Health & Beauty,Cash on Delivery,2025-11-15,Shipped
+ORD951,CUS4,P259,5,402.77,Media & Books,Cryptocurrency,2025-05-29,In Transit
+ORD952,CUS492,P122,3,26.53,Consumer Electronics,Credit and Debit Cards,2025-09-20,Delivered
+ORD953,CUS254,P234,2,273.86,Food & Beverage,Bank Transfers,2025-09-28,Delivered
+ORD954,CUS212,P46,2,360.11,Media & Books,Digital Wallets,2025-10-30,In Transit
+ORD955,CUS174,P229,3,285.59,Pet Care & Supplies,Bank Transfers,2026-03-28,Delivered
+ORD956,CUS237,P231,5,394.63,Pet Care & Supplies,Bank Transfers,2026-03-07,Delivered
+ORD957,CUS39,P106,2,64.34,Media & Books,Bank Transfers,2025-09-02,In Transit
+ORD958,CUS416,P6,2,346.79,Fashion & Accessories,BNPL Services,2025-10-23,In Transit
+ORD959,CUS233,P271,3,384.97,Fashion & Accessories,Cryptocurrency,2026-04-15,Shipped
+ORD960,CUS257,P174,1,373.46,Consumer Electronics,Bank Transfers,2025-11-25,Delivered
+ORD961,CUS487,P75,4,108.58,Fashion & Accessories,BNPL Services,2026-03-30,In Transit
+ORD962,CUS141,P117,2,88.52,Food & Beverage,Digital Wallets,2025-12-22,Cancelled
+ORD963,CUS180,P163,2,70.69,Food & Beverage,Bank Transfers,2026-03-15,Delivered
+ORD964,CUS18,P125,1,446.45,Health & Beauty,Bank Transfers,2025-12-24,Delivered
+ORD965,CUS21,P132,3,120.54,Media & Books,Cryptocurrency,2025-09-11,Cancelled
+ORD966,CUS78,P110,5,405.85,Consumer Electronics,BNPL Services,2025-06-02,Cancelled
+ORD967,CUS136,P116,1,366.18,Media & Books,Credit and Debit Cards,2025-06-02,Cancelled
+ORD968,CUS324,P128,2,486.3,Food & Beverage,Cryptocurrency,2026-02-13,Cancelled
+ORD969,CUS344,P215,4,111.42,Food & Beverage,Bank Transfers,2025-04-28,Delivered
+ORD970,CUS23,P60,4,333.14,Media & Books,Credit and Debit Cards,2025-10-12,Shipped
+ORD971,CUS28,P110,4,490.12,Food & Beverage,Bank Transfers,2025-10-17,In Transit
+ORD972,CUS84,P238,1,33.14,Fashion & Accessories,BNPL Services,2026-02-25,In Transit
+ORD973,CUS138,P140,2,243.93,Media & Books,Cash on Delivery,2025-06-09,Cancelled
+ORD974,CUS113,P286,1,223.32,Media & Books,Cash on Delivery,2025-11-22,Shipped
+ORD975,CUS265,P217,4,139.69,Media & Books,BNPL Services,2025-06-07,Cancelled
+ORD976,CUS133,P230,5,468.04,Media & Books,BNPL Services,2025-05-07,Cancelled
+ORD977,CUS369,P214,5,497.08,Fashion & Accessories,Bank Transfers,2026-01-05,In Transit
+ORD978,CUS464,P287,4,435.11,Health & Beauty,Bank Transfers,2026-02-28,Delivered
+ORD979,CUS282,P294,1,39.77,Pet Care & Supplies,Digital Wallets,2025-09-01,Cancelled
+ORD980,CUS403,P275,3,447.87,Fashion & Accessories,Cash on Delivery,2026-03-02,Delivered
+ORD981,CUS276,P16,4,326.96,Health & Beauty,BNPL Services,2025-07-19,In Transit
+ORD982,CUS466,P85,4,380.01,Health & Beauty,Bank Transfers,2025-06-25,Cancelled
+ORD983,CUS443,P51,1,478.14,Pet Care & Supplies,Digital Wallets,2025-05-31,Cancelled
+ORD984,CUS443,P207,4,65.35,Consumer Electronics,Credit and Debit Cards,2025-08-24,Cancelled
+ORD985,CUS482,P125,5,191.46,Pet Care & Supplies,Cash on Delivery,2025-10-25,Delivered
+ORD986,CUS43,P46,4,33.86,Media & Books,Cash on Delivery,2025-05-11,Delivered
+ORD987,CUS85,P214,4,52.6,Consumer Electronics,Cash on Delivery,2026-02-02,In Transit
+ORD988,CUS27,P289,5,182.05,Media & Books,Digital Wallets,2026-01-29,In Transit
+ORD989,CUS440,P254,4,327.25,Pet Care & Supplies,Cash on Delivery,2025-08-01,Cancelled
+ORD990,CUS15,P203,1,243.01,Media & Books,Bank Transfers,2026-03-18,Shipped
+ORD991,CUS496,P216,4,282.7,Food & Beverage,Digital Wallets,2025-06-29,In Transit
+ORD992,CUS349,P126,5,19.44,Food & Beverage,Credit and Debit Cards,2025-05-09,Shipped
+ORD993,CUS61,P148,2,48.58,Media & Books,Bank Transfers,2026-02-18,In Transit
+ORD994,CUS205,P97,1,285.99,Pet Care & Supplies,Cryptocurrency,2025-12-26,In Transit
+ORD995,CUS132,P23,1,335.72,Consumer Electronics,Digital Wallets,2025-04-20,Shipped
+ORD996,CUS296,P149,5,234.38,Media & Books,Cash on Delivery,2025-06-01,In Transit
+ORD997,CUS220,P237,1,192.01,Food & Beverage,Bank Transfers,2025-12-26,In Transit
+ORD998,CUS427,P26,2,67.08,Food & Beverage,Credit and Debit Cards,2025-06-06,Shipped
+ORD999,CUS204,P187,1,47.71,Consumer Electronics,Digital Wallets,2026-02-09,Shipped
+ORD1000,CUS79,P116,1,419.06,Food & Beverage,BNPL Services,2025-08-07,In Transit
