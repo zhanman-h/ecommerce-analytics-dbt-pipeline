@@ -1,0 +1,14 @@
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+target/
+dbt_packages/
+logs/
+.env
+profiles.yml
+.DS_Store
+.vscode/
+.idea/
+postgres_data/

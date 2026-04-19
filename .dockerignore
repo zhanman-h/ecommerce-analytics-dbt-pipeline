@@ -1,4 +1,30 @@
-.git
-.gitignore
-**/target/
-**/logs/
+# --- Python Environment ---
+# Ignore the virtual environment folder
+venv/
+env/
+# Ignore compiled python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- dbt Specific ---
+# These are generated every time you run dbt
+target/
+dbt_packages/
+logs/
+
+# --- Environment & Security ---
+# NEVER push your passwords/secrets to GitHub
+.env
+profiles.yml
+# If you store dbt profiles in the project, ignore the local version
+.dbt/
+
+# --- Operating System & IDE ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Docker ---
+# If you map a local volume for Postgres data
+postgres_data/
