@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: stg_ecommerce_sales
+    description: "Staging table for raw ecommerce sales, cleaned of duplicates and nulls."
+    columns:
+      - name: order_id
+        description: "The primary key for this table."
+        tests:
+          - unique
+
+      - name: customer_id
+        description: "Foreign key to the customer table."
+
+      - name: price
+        description: "Gross price of the item."
+        tests:
+          - not_null
