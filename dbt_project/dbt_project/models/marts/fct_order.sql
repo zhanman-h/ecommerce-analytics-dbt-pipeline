@@ -3,7 +3,8 @@
 SELECT 
     order_id, 
     customer_id, 
-    product_id, 
+    product_id,
+    product_category, 
     order_date, 
     quantity, 
     price, 
